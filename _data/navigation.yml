@@ -1,0 +1,7 @@
+main:
+  - title: "Blog"
+    url: /
+  - title: "Food Guide"
+    url: /food-guide/
+  - title: "About"
+    url: /about/
