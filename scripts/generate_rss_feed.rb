@@ -1,3 +1,5 @@
+# scripts/generate_rss_feed.rb
+
 require 'nokogiri'
 require 'time'
 require 'yaml'
@@ -12,7 +14,6 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
   atom_doc = Nokogiri::XML(File.read(atom_file))
   atom_namespace = { "atom" => "http://www.w3.org/2005/Atom" }
 
-  # Create the RSS feed
   rss_doc = Nokogiri::XML::Builder.new(:encoding => 'UTF-8') do |xml|
     xml.rss(:version => "2.0") do
       xml.channel do
@@ -21,25 +22,40 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
         xml.description atom_doc.at_xpath('//atom:feed/atom:subtitle', atom_namespace)&.content || "Generated RSS Feed"
         xml.pubDate Time.parse(atom_doc.at_xpath('//atom:feed/atom:updated', atom_namespace)&.content).rfc2822 rescue nil
 
-        # Process each post
-        Dir.glob("#{posts_dir}/*.md").each do |post_file|
-          front_matter, _ = File.read(post_file).split(/^---$/, 3)[1, 2]
-          post_metadata = YAML.safe_load(front_matter)
+        # Process each Atom entry
+        atom_doc.xpath('//atom:feed/atom:entry', atom_namespace).each do |entry|
+          post_url = entry.at_xpath('atom:link[@rel="alternate"]/@href', atom_namespace)&.value
 
-          teaser_relative_path = post_metadata.dig('header', 'teaser') || ''
-          teaser_url = File.join(url, baseurl, teaser_relative_path) if !teaser_relative_path.empty?
+          # Parse the teaser image from the corresponding post file
+          post_file_path = Dir.glob("#{posts_dir}/*.md").find { |path| File.read(path).include?(post_url) }
+          teaser_url = nil
 
+          if post_file_path
+            front_matter, _ = File.read(post_file_path).split(/^---$/, 3)[1, 2]
+            post_metadata = YAML.safe_load(front_matter)
+            teaser_relative_path = post_metadata.dig('header', 'teaser') || ''
+            teaser_url = File.join(url, baseurl, teaser_relative_path) unless teaser_relative_path.empty?
+          end
+
+          # Add the test item at the top
+          # xml.item do
+          #   xml.title "Test Item Title"
+          #   xml.link "https://example.com/test-item"
+          #   xml.description "This is a test item added to the RSS feed."
+          #   xml.pubDate Time.now.rfc2822
+          #   xml.guid "https://example.com/test-item"
+          # end
+
+          # Add the item to the RSS feed
           xml.item do
-            xml.title post_metadata['title']
-            xml.link "#{url}#{post_metadata['permalink']}"
-            xml.description post_metadata['description'] || "No description available."
-            xml.pubDate Time.parse(post_metadata['date']).rfc2822 rescue nil
-            xml.guid "#{url}#{post_metadata['permalink']}"
+            xml.title entry.at_xpath('atom:title', atom_namespace)&.content
+            xml.link post_url
+            xml.description entry.at_xpath('atom:summary', atom_namespace)&.content || entry.at_xpath('atom:content', atom_namespace)&.content
+            xml.pubDate Time.parse(entry.at_xpath('atom:published', atom_namespace)&.content).rfc2822 rescue nil
+            xml.guid entry.at_xpath('atom:id', atom_namespace)&.content
 
-            # Add the teaser tag
-            if teaser_url
-              xml.teaser teaser_url
-            end
+            # Add the teaser tag if available
+            xml.teaser teaser_url if teaser_url
           end
         end
       end
@@ -50,11 +66,11 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
   puts "RSS feed generated at #{rss_file}"
 end
 
-# Input and output file paths
-atom_file = ARGV[0] || '_site/feed.xml'
-rss_file = ARGV[1] || '_site/rss-feed.xml'
-posts_dir = ARGV[2] || '_posts'
-config_file = ARGV[3] || '_config.yml'
+# File paths
+atom_file = ARGV[0] || '_site/feed.xml'  # Default Atom feed file
+rss_file = ARGV[1] || '_site/rss-feed.xml'  # Output RSS file
+posts_dir = ARGV[2] || '_posts'  # Directory containing post files
+config_file = ARGV[3] || '_config.yml'  # Jekyll configuration file
 
-# Run the conversion
+# Run the script
 convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
