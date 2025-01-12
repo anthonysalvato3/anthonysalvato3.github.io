@@ -46,17 +46,12 @@ jobs:
         run: |
           mkdir -p raw_posts
           cp -r _posts/* raw_posts/
-          touch raw_posts/this.keep
           echo "Synchronized _posts to raw_posts"
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: |
-          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
-          ls _site
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - name: Check raw_posts Content
-        run: cat raw_posts/2024-04-18-is-oxidative-stress-the-root-cause-of-obesity.markdown
       - name: Generate RSS Feed
         run: bundle exec ruby scripts/generate_rss_feed.rb
         env:
