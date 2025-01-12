@@ -42,16 +42,10 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
             post_file_path = Dir.glob("#{posts_dir}/*.markdown").find do |path|
               begin
                 puts "Processing file: #{path}"
-                file_content = File.read(path, encoding: 'utf-8').scrub
+                file_content = File.read(path).gsub(/\r\n/, "\n")
                 # Split the content to extract the front matter
                 split_content = file_content.split(/^---$/, 3)
-                puts "Split Content Array[0]:"
-                puts split_content[0]
-                puts "Split Content Array[1]:"
-                puts split_content[1]
-                puts "Split Content Array[2]:"
-                puts split_content[2]
-                front_matter, _ = split_content[1], split_content[2]
+                front_matter = split_content[1]
                 puts "Front matter: #{front_matter}"
                 post_metadata = YAML.safe_load(front_matter)
 
@@ -75,7 +69,7 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
             # Extract the teaser URL from the matched post
             puts "Post file path: #{post_file_path}"
             if post_file_path
-              front_matter, _ = File.read(post_file_path).split(/^---$/, 3)[1, 2]
+              front_matter = File.read(post_file_path).gsub(/\r\n/, "\n").split(/^---$/, 3)[1]
               post_metadata = YAML.safe_load(front_matter)
               teaser_relative_path = post_metadata.dig('header', 'teaser') || ''
               teaser_url = File.join(url, baseurl, teaser_relative_path) unless teaser_relative_path.empty?
