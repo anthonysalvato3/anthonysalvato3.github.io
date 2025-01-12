@@ -38,7 +38,6 @@ include:
   - _config.yml
   - raw_posts
 exclude:
-  - test
   - drafts
 
 # Exclude from processing.
