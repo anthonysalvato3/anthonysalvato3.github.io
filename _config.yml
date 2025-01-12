@@ -37,8 +37,6 @@ include:
   - _pages
   - _config.yml
   - raw_posts
-exclude:
-  - drafts
 
 # Exclude from processing.
 # The following items will not be processed, by default.
