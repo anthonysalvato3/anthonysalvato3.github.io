@@ -23,7 +23,7 @@ email: anthony@stopbigfood.com
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about cool health and nutrition stuff.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://stopbigfood.com/" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 twitter_username: jekyllrb
 github_username: jekyll
