@@ -43,6 +43,7 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
               begin
                 puts "Processing file: #{path}"
                 file_content = File.read(path, encoding: 'utf-8').scrub
+                puts "File Content for #{path}:\n#{file_content}"
                 front_matter, _ = file_content.split(/^---$/, 3)[1, 2]
                 puts "Front matter: #{front_matter}"
                 post_metadata = YAML.safe_load(front_matter)
