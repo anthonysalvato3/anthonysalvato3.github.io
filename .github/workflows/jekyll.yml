@@ -48,7 +48,7 @@ jobs:
           cp -r _posts/* raw_posts/
           touch raw_posts/this.keep
           echo "Synchronized _posts to raw_posts"
-          ls raw_posts
+          cat raw_posts/2024-04-18-is-oxidative-stress-the-root-cause-of-obesity.markdown
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
