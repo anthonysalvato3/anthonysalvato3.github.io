@@ -33,7 +33,11 @@ remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
-include: ["_pages"]
+include:
+  - _pages
+  - _config.yml
+  - raw_posts
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

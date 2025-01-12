@@ -95,7 +95,7 @@ end
 # File paths
 atom_file = ARGV[0] || '_site/feed.xml'  # Default Atom feed file
 rss_file = ARGV[1] || '_site/rss-feed.xml'  # Output RSS file
-posts_dir = ARGV[2] || '_posts'  # Directory containing post files
+posts_dir = ARGV[2] || 'raw_posts'  # Directory containing post files
 config_file = ARGV[3] || '_config.yml'  # Jekyll configuration file
 
 # Run the script

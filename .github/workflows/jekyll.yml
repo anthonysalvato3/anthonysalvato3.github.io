@@ -42,6 +42,11 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+      - name: Synchronize Raw Posts
+        run: |
+          mkdir -p raw_posts
+          cp -r _posts/* raw_posts/
+          echo "Synchronized _posts to raw_posts"
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
