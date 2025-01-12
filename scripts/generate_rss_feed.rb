@@ -27,6 +27,7 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
             xml.description "This is a test item for the image."
             xml.pubDate Time.now.rfc2822
             xml.guid "https://example.com/test-for-image"
+            xml.teaser "https://stopbigfood.com/assets/images/kcal+thumbnail.png"
           end
 
         # Process each Atom entry
