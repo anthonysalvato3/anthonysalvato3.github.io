@@ -15,6 +15,15 @@ def convert_atom_to_rss(atom_file, rss_file)
         xml.description atom_doc.at_xpath('//atom:feed/atom:subtitle', atom_namespace)&.content || "Generated RSS Feed"
         xml.pubDate Time.parse(atom_doc.at_xpath('//atom:feed/atom:updated', atom_namespace)&.content).rfc2822 rescue nil
 
+        # Add the test item at the top
+        xml.item do
+          xml.title "Test Item Title"
+          xml.link "https://example.com/test-item"
+          xml.description "This is a test item added to the RSS feed."
+          xml.pubDate Time.now.rfc2822
+          xml.guid "https://example.com/test-item"
+        end
+
         atom_doc.xpath('//atom:feed/atom:entry', atom_namespace).each do |entry|
           xml.item do
             xml.title entry.at_xpath('atom:title', atom_namespace)&.content
