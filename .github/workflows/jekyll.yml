@@ -55,7 +55,7 @@ jobs:
           ls _site
         env:
           JEKYLL_ENV: production
-      - name: Check raw_posts content
+      - name: Check raw_posts Content
         run: cat raw_posts/2024-04-18-is-oxidative-stress-the-root-cause-of-obesity.markdown
       - name: Generate RSS Feed
         run: bundle exec ruby scripts/generate_rss_feed.rb
