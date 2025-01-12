@@ -20,15 +20,6 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
         xml.description atom_doc.at_xpath('//atom:feed/atom:subtitle', atom_namespace)&.content || "Generated RSS Feed"
         xml.pubDate Time.parse(atom_doc.at_xpath('//atom:feed/atom:updated', atom_namespace)&.content).rfc2822 rescue nil
 
-        # Add the test item at the top
-          # xml.item do
-          #   xml.title "Test Item Title"
-          #   xml.link "https://example.com/test-item"
-          #   xml.description "This is a test item added to the RSS feed."
-          #   xml.pubDate Time.now.rfc2822
-          #   xml.guid "https://example.com/test-item"
-          # end
-
         # Process each Atom entry
         atom_doc.xpath('//atom:feed/atom:entry', atom_namespace).each do |entry|
           # Extract the permalink for the current entry
@@ -46,7 +37,7 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
                 post_metadata = YAML.safe_load(front_matter)
 
                 # For test only
-                # url = "http://localhost:4000"
+                url = "http://localhost:4000"
 
                 generated_permalink = File.join(url, baseurl, post_metadata['permalink'] || "/#{File.basename(path, '.markdown')}/")
                 if generated_permalink == post_permalink
@@ -69,6 +60,10 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
               post_metadata = YAML.safe_load(front_matter)
               teaser_relative_path = post_metadata.dig('header', 'teaser') || ''
               teaser_url = File.join(url, baseurl, teaser_relative_path) unless teaser_relative_path.empty?
+              puts "Front matter: #{front_matter}"
+              puts "Post metadata: #{post_metadata}"
+              puts "Teaser relative path: #{teaser_relative_path}"
+              puts "Teaser url: #{teaser_url}"
             end
           end
 

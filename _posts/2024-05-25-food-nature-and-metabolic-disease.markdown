@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Food, Nature, and Metabolic Disease"
+date: "2024-05-25"
+permalink: "/food-nature-and-metabolic-disease/"
 excerpt: "Is metabolic disease a survival adaptation?"
 header:
   teaser: "/assets/images/bear+fish.png"

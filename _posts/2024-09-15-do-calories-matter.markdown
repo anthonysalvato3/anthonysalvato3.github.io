@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Do Calories Matter?"
+date: "2024-09-15"
+permalink: "/do-calories-matter/"
 excerpt: "The biochemistry that controls appetite is more important."
 header:
   teaser: "/assets/images/kcal+thumbnail.png"

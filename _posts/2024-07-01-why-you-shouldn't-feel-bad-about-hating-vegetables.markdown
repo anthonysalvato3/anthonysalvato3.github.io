@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Why You Shoudn't Feel Bad About Hating Vegetables"
+date: "2024-07-01"
+permalink: "/why-you-shouldn't-feel-bad-about-hating-vegetables/"
 excerpt: "Eat less food that tastes bad and more food that tastes good."
 header:
   teaser: "/assets/images/hating-vegetables.png"

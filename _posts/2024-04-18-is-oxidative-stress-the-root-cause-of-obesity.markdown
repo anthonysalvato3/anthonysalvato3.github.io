@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Is Oxidative Stress the Root Cause of Obesity?"
+date: "2024-04-18"
+permalink: "/is-oxidative-stress-the-root-cause-of-obesity/"
 excerpt: "Here’s why cutting calories doesn’t work."
 header:
   teaser: "/assets/images/hypothalamus.png"

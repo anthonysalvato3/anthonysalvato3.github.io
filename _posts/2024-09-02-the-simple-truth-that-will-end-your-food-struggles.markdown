@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Simple Truth That Will End Your Food Struggles"
+date: "2024-09-02"
+permalink: "/the-simple-truth-that-will-end-your-food-struggles/"
 excerpt: "A simplified explanation of how we get sick."
 header:
   teaser: "/assets/images/strong+brain.png"

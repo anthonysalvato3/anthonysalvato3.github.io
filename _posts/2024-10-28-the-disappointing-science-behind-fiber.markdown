@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "The Disappointing Science Behind Fiber"
+date: "2024-10-28"
+permalink: "/the-disappointing-science-behind-fiber/"
 excerpt: "There's nothing wrong with low fiber intake."
 header:
   teaser: "/assets/images/gorilla.png"

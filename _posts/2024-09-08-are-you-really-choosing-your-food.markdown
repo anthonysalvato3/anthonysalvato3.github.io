@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Are You Really Choosing Your Food?"
+date: "2024-09-08"
+permalink: "/are-you-really-choosing-your-food/"
 excerpt: "Multibillion dollar companies choose for us."
 header:
   teaser: "/assets/images/puppet.png"
