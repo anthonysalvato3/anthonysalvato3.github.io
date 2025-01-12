@@ -37,3 +37,5 @@ gem "csv", "~> 3.3"
 gem "base64", "~> 0.2.0"
 
 gem "jekyll-include-cache", group: :jekyll_plugins
+
+gem "nokogiri"
