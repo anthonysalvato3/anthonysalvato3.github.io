@@ -22,11 +22,14 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
 
         # Add the test item at the top
           xml.item do
-            xml.title "Test For Image 4"
-            xml.link "https://example.com/test-for-image4/"
-            xml.description "This is a test item for the image 4."
-            xml.pubDate Time.now.rfc2822
-            xml.guid "https://example.com/test-for-image4"
+            xml.title "Test For Image 5"
+            xml.link "https://example.com/test-for-image5/"
+            xml.description "This is a test item for the image 5."
+            test_original_pub_date = Time.now.rfc2822
+            test_pub_date_short = Time.parse(original_pub_date).strftime('%B %d, %Y')
+            xml.pubDate test_original_pub_date
+            xml.pubDateShort test_pub_date_short
+            xml.guid "https://example.com/test-for-image5"
             xml.teaser "https://stopbigfood.com/assets/images/kcal+thumbnail.png"
           end
 
@@ -94,7 +97,7 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
                               nil
                             end
             xml.pubDateShort pub_date_short
-            
+
             xml.guid entry.at_xpath('atom:id', atom_namespace)&.content
 
             # Add the teaser tag if available
