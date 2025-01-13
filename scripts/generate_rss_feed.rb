@@ -81,8 +81,20 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
           xml.item do
             xml.title entry.at_xpath('atom:title', atom_namespace)&.content
             xml.link post_permalink
-            xml.description entry.at_xpath('atom:summary', atom_namespace)&.content || entry.at_xpath('atom:content', atom_namespace)&.content
-            xml.pubDate Time.parse(entry.at_xpath('atom:published', atom_namespace)&.content).rfc2822 rescue nil
+            xml.description entry.at_xpath('atom:summary', atom_namespace)&.content || ''
+            
+            # Original pubDate field
+            original_pub_date = entry.at_xpath('atom:published', atom_namespace)&.content
+            xml.pubDate original_pub_date
+
+            # New pubDateShort field
+            pub_date_short = if original_pub_date
+                              Time.parse(original_pub_date).strftime('%B %d, %Y')
+                            else
+                              nil
+                            end
+            xml.pubDateShort pub_date_short
+            
             xml.guid entry.at_xpath('atom:id', atom_namespace)&.content
 
             # Add the teaser tag if available
