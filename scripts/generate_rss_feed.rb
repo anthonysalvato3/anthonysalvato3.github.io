@@ -22,11 +22,11 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
 
         # Add the test item at the top
           xml.item do
-            xml.title "Test For Image"
-            xml.link "https://example.com/test-for-image/"
-            xml.description "This is a test item for the image."
+            xml.title "Test For Image 2"
+            xml.link "https://example.com/test-for-image2/"
+            xml.description "This is a test item for the image 2."
             xml.pubDate Time.now.rfc2822
-            xml.guid "https://example.com/test-for-image"
+            xml.guid "https://example.com/test-for-image2"
             xml.teaser "https://stopbigfood.com/assets/images/kcal+thumbnail.png"
           end
 
