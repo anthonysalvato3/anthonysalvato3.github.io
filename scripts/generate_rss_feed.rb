@@ -21,17 +21,17 @@ def convert_atom_to_rss(atom_file, rss_file, posts_dir, config_file)
         xml.pubDate Time.parse(atom_doc.at_xpath('//atom:feed/atom:updated', atom_namespace)&.content).rfc2822 rescue nil
 
         # Add the test item at the top
-          xml.item do
-            xml.title "Test For Image 6"
-            xml.link "https://example.com/test-for-image6/"
-            xml.description "This is a test item for the image 6."
-            test_original_pub_date = Time.now.rfc2822
-            test_pub_date_short = Time.parse(test_original_pub_date).strftime('%B %d, %Y')
-            xml.pubDate test_original_pub_date
-            xml.pubDateShort test_pub_date_short
-            xml.guid "https://example.com/test-for-image6"
-            xml.teaser "https://stopbigfood.com/assets/images/kcal+thumbnail.png"
-          end
+          # xml.item do
+          #   xml.title "Test For Image 6"
+          #   xml.link "https://example.com/test-for-image6/"
+          #   xml.description "This is a test item for the image 6."
+          #   test_original_pub_date = Time.now.rfc2822
+          #   test_pub_date_short = Time.parse(test_original_pub_date).strftime('%B %d, %Y')
+          #   xml.pubDate test_original_pub_date
+          #   xml.pubDateShort test_pub_date_short
+          #   xml.guid "https://example.com/test-for-image6"
+          #   xml.teaser "https://stopbigfood.com/assets/images/kcal+thumbnail.png"
+          # end
 
         # Process each Atom entry
         atom_doc.xpath('//atom:feed/atom:entry', atom_namespace).each do |entry|
