@@ -8,6 +8,10 @@ Glucose is a monosaccharide, which means it is the simplest possible form of car
 
 Blood glucose stability is important because levels that are too high or too low can both cause problems. When blood glucose increases after eating, a hormone called insulin is secreted by the pancreas to move that glucose from the blood into cells for energy. Otherwise, when fasting or when on a low carbohydrate diet, the liver picks up the slack by increasing gluconeogenesis, which converts proteins and other non-carbohydrate sources into glucose. With a shifting balance of insulin and gluconeogenesis, blood glucose can remain relatively stable at varying levels of carbohydrate intake. Therefore, an important point to understand about any glucose tests is they are not a measure of how much sugar one has consumed. Instead, they indicate how well the body is able to maintain this stability. Knowing this, we can properly evaluate what these tests are revealing.
 
+#### From Health to Disease
+
+In a metabolically healthy state, the pancreas responds to a glucose load by secreting an appropriate amount of insulin to transport glucose from the blood into various cells around the body: primarily muscle, fat, and liver cells. Otherwise, depending on the level of impairment of this
+
 #### Fasting Blood Glucose
 
 At my age and health status, this is the only test that my doctor orders by default. I’ll cite the [Mayo Clinic](https://www.mayoclinic.org/diseases-conditions/diabetes/diagnosis-treatment/drc-20371451) here:
@@ -20,4 +24,8 @@ The idea is that under fasted conditions, there is an expected range that blood 
 
 This test measures a long-term average of blood glucose. Hemoglobin is a protein present in red blood cells, and the percentage given by this test represents how much of that hemoglobin has glucose attached to it. Hemoglobin in red blood cells is continuously exposed to glucose in the bloodstream, so higher blood glucose concentrations increase the likelihood of glycation (glucose binding to hemoglobin). Because red blood cells have an average lifespan of three months, the hemoglobin A1C test reflects the percentage of glycated hemoglobin over that time. The Mayo Clinic considers an HbA1c above 6.5% to be diabetic, between 5.7% and 6.4% to be prediabetic, and below 5.7% to be normal. My most recent HbA1c was 5.2%. However, lower does not necessarily mean better; HbA1c is primarily a tool to help identify one's current state of metabolic health, rather than a marker to keep as low as possible in the healthy range.
 
-While HbA1c covers the pitfall of a fasting blood glucose measurement being an instantaneous measurement rather than an average, it's still a lagging indicator of metabolic problems for one simple reason: hyperinsulemia precedes hyperglycemia. In other words, in earlier stages of metabolic disease, more insulin is needed to transport glucose out of the blood, but blood glucose measurements can still remain normal.
+While HbA1c covers the pitfall of a fasting blood glucose measurement being an instantaneous measurement rather than an average, it's still a lagging indicator of metabolic problems for one simple reason: hyperinsulinemia precedes hyperglycemia. In other words, in earlier stages of metabolic disease, more insulin is needed to transport glucose out of the blood, but blood glucose measurements can still remain normal.
+
+#### Oral Glucose Tolerance Test (OGTT)
+
+Recommended in [Peter Attia's book](https://peterattiamd.com/outlive/), the OGTT requires an 8-hour fast as usual, followed by drinking a syrupy glucose solution. Blood samples are taken at consistent time intervals, and then the measurements of insulin and glucose in those samples are graphed over the next few hours. It's among the most accurate ways to assess the body's ability to respond to a carbohydrate load, thus painting a clear picture of metabolic health. The major downside is the test takes about three hours to complete.
