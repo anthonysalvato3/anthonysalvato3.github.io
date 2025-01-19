@@ -1,12 +1,22 @@
+---
+layout: single
+title: "Glucose Measurements and Why They Matter"
+date: "2025-01-19"
+permalink: "/glucose-measurements-and-why-they-matter/"
+excerpt: "These tests can reveal a lot more than you think."
+header:
+  teaser: "/assets/images/blood-sugar.png"
+---
+
 Getting my annual blood tests is usually a disappointment because the standard panel—typically including tests like a basic metabolic panel or lipid profile—is sadly lacking for disease prevention, especially for conditions avoidable with healthy lifestyle behaviors. I like to request additional tests, either through my doctor or by ordering them online, and blood glucose measurements are the ones I’m most interested in. Here’s an overview of the important measurements, including their strengths and limitations. But first:
 
 #### What Even Is Glucose?
 
-Glucose is a monosaccharide, the simplest form of carbohydrate, which cannot be broken down into smaller carbohydrate units. It serves as the body’s primary carbohydrate-based energy source. More complex carbohydrates are digested into glucose, while other monosaccharides, such as fructose and galactose, are converted into glucose through metabolic pathways. Understanding glucose is essential because it plays a critical role in energy metabolism and is a key marker in blood tests for assessing metabolic health.
+Glucose is a [monosaccharide](https://en.wikipedia.org/wiki/Monosaccharide), the simplest form of carbohydrate, which cannot be broken down into smaller carbohydrate units. It serves as the body’s primary carbohydrate-based energy source. More complex carbohydrates are digested into glucose, while other monosaccharides, such as fructose and galactose, are converted into glucose through metabolic pathways. Understanding glucose is essential because it plays a critical role in energy metabolism and is a key marker in blood tests for assessing metabolic health.
 
 #### How Blood Glucose is Modulated
 
-Blood glucose stability is critical because both excessively high and low levels can lead to health problems. After eating, blood glucose rises, prompting the pancreas to secrete [insulin](https://en.wikipedia.org/wiki/Insulin), a hormone that facilitates the movement of glucose from the blood into cells for energy. During fasting or when on a low-carbohydrate diet, the liver helps regulate blood glucose by increasing gluconeogenesis—a process that generates glucose from proteins and other non-carbohydrate sources. This dynamic balance between insulin secretion and gluconeogenesis ensures relatively stable blood glucose levels across varying dietary patterns. It’s important to understand that glucose tests do not measure sugar intake directly. Instead, they assess the body’s ability to regulate glucose levels, offering valuable insights into metabolic health and potential dysfunction.
+Blood glucose stability is important because both excessively high and low levels can lead to health problems. After eating, blood glucose rises, prompting the pancreas to secrete [insulin](https://en.wikipedia.org/wiki/Insulin), a hormone that facilitates the movement of glucose from the blood into cells for energy. During fasting or when on a low-carbohydrate diet, the liver helps increase blood glucose by increasing [gluconeogenesis](https://en.wikipedia.org/wiki/Gluconeogenesis)—a process that generates glucose from proteins and other non-carbohydrate sources. This dynamic balance between insulin secretion and gluconeogenesis ensures relatively stable blood glucose levels across varying dietary patterns. It’s important to understand that glucose tests do not measure sugar intake directly. Instead, they assess the body’s ability to regulate glucose levels.
 
 #### From Health to Disease
 
@@ -20,9 +30,9 @@ In a metabolically healthy state, the pancreas responds to a rise in blood gluco
 
 #### What Causes Insulin Resistance?
 
-The causes of insulin resistance are widely debated. After many hours of studying books, research papers, and lectures, I have concluded that insulin resistance is a deliberate adaptation by the body to prepare for potential food shortages. When food is metabolized into energy, reactive molecules called [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) are naturally produced. While ROS serve functional purposes in the body, excessive accumulation can damage cells. The body’s antioxidant defense system, which relies on proteins, vitamins, minerals, and [polyphenols](https://en.wikipedia.org/wiki/Polyphenol), protects against this damage.
+The causes of insulin resistance are widely debated. One fascinating idea is that insulin resistance may be a deliberate adaptation by the body to prepare for potential food shortages. When food is metabolized into energy, reactive molecules called [reactive oxygen species (ROS)](https://en.wikipedia.org/wiki/Reactive_oxygen_species) are naturally produced. While ROS serve functional purposes in the body, excessive accumulation can damage cells. The body’s antioxidant defense system, which relies on proteins, vitamins, minerals, and [polyphenols](https://en.wikipedia.org/wiki/Polyphenol), protects against this damage.
 
-However, a diet deficient in these nutrients relative to energy intake—combined with substances like refined oils and artificial additives—can overwhelm the defense system. This imbalance particularly affects brain cells, or [neurons](https://en.wikipedia.org/wiki/Neuron), that regulate appetite and blood sugar. These neurons [are highly susceptible to oxidative damage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7603161/), and when damaged, their hormonal signaling becomes impaired. The impaired hormonal signaling leads to the following initial consequences:
+However, a diet deficient in these nutrients relative to energy intake—combined with oxidation-prone substances like refined oils—can overwhelm the defense system. This imbalance particularly affects brain cells, or [neurons](https://en.wikipedia.org/wiki/Neuron), that regulate appetite and blood sugar. These neurons [are highly susceptible to oxidative damage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7603161/), and when damaged, their hormonal signaling becomes impaired. The impaired hormonal signaling leads to the following initial consequences:
 
 <figure>
     <img src="/assets/images/leptin+resistance+diagram.png"
@@ -30,9 +40,9 @@ However, a diet deficient in these nutrients relative to energy intake—combine
     <figcaption><a href="https://link.springer.com/article/10.1007/s00125-016-3898-3">https://link.springer.com/article/10.1007/s00125-016-3898-3</a></figcaption>
 </figure>
 
-In short, appetite increases, energy expenditure decreases, gluconeogenesis becomes more active, muscles develop insulin resistance, and various other changes occur. These adaptations explain why obesity is so strongly associated with insulin resistance and chronic disease. Historically, when energy intake was high relative to antioxidant nutrients, it may have signaled an abundant autumn harvest preceding a scarce winter. The body’s metabolic adjustments—storing energy and reducing expenditure—maximized survival during hard seasons.
+In short, appetite increases, energy expenditure decreases, gluconeogenesis becomes more active, muscles develop insulin resistance, and various other changes occur. These adaptations explain why obesity is so strongly associated with insulin resistance and chronic disease. Historically, when energy intake was high relative to antioxidant nutrients, that may have signaled an abundant autumn harvest preceding a scarce winter. The body’s metabolic adjustments—increasing food intake and storage while reducing expenditure—maximized survival during hard seasons.
 
-In modern society, however, where the imbalance between energy and antioxidant nutrients is both extreme and prolonged, these same adaptations lead to serious health problems. Insulin resistance is not inherently a problem but an indicator of metabolic adaptations that are inappropriate in today’s environment. This is why measuring it is so important, and fortunately, we have several tests to assess how insulin resistant we may be.
+In modern society, however, where the imbalance between energy and antioxidant nutrients is both extreme and prolonged, these same adaptations lead to serious health problems. Insulin resistance is an indicator of metabolic adaptations that are inappropriate in today’s environment. This is why measuring it is so important, and fortunately, we have several tests to assess how insulin resistant we may be.
 
 #### Fasting Blood Glucose
 
@@ -46,7 +56,7 @@ Under fasted conditions, there exists an expected range that blood glucose shoul
 
 This test measures a long-term average of blood glucose. Hemoglobin is a protein present in red blood cells, and the percentage given by this test represents how much of that hemoglobin has glucose attached to it. Hemoglobin in red blood cells is continuously exposed to glucose in the bloodstream, so higher blood glucose concentrations increase the likelihood of glycation (glucose binding to hemoglobin). Because red blood cells have an average lifespan of three months, the hemoglobin A1C test reflects the percentage of glycated hemoglobin over that time. The Mayo Clinic considers an HbA1c above 6.5% to be diabetic, between 5.7% and 6.4% to be prediabetic, and below 5.7% to be normal. My most recent HbA1c was 5.2%. However, lower does not necessarily mean better; like all of these tests, HbA1c is primarily a tool to help identify one's current state of metabolic health, rather than a marker to keep as low as possible in the healthy range.
 
-While HbA1c covers the pitfall of a fasting blood glucose measurement being an instantaneous measurement rather than an average, it's still a lagging indicator of metabolic problems for one simple reason: hyperinsulinemia precedes hyperglycemia. In other words, in earlier stages of metabolic disease, more insulin is needed to transport glucose out of the blood, but blood glucose measurements can still remain normal.
+While HbA1c covers the pitfall of a fasting blood glucose measurement being an instantaneous measurement rather than an average, it's still a lagging indicator of metabolic problems for one simple reason: hyperinsulinemia precedes hyperglycemia. In other words, during earlier stages of metabolic disease, more insulin is needed to transport glucose out of the blood, but blood glucose measurements can still remain normal.
 
 #### Oral Glucose Tolerance Test (OGTT)
 

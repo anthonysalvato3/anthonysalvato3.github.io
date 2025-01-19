@@ -32,9 +32,9 @@ Oxidation is an inevitable aspect of energy metabolism; occasionally, electrons 
 
 If true, this hypothesis would redefine obesity from a problem rooted in overeating to one of oxidative stress. Taxing the body’s antioxidant defense system, whether through dietary or other means, reduces the supply of its endogenous antioxidants: superoxide dismutase and glutathione.
 
-#### Why Ultraprocessed Foods Are Obesogenic
+#### Why Ultra-Processed Foods Are Obesogenic
 
-Experts have speculated for years why ultraprocessed foods are far more obesogenic than whole foods. One prevailing theory is that they are “hyperpalatable” and therefore trigger overeating. While this is true in the short term, just as the brain resists weight loss by increasing hunger during a calorie deficit, it should also resist weight gain by decreasing hunger in a calorie surplus. This suggests that short-term calorie intake shouldn’t significantly affect the brain’s preferred adiposity level in the long run. However, viewing ultraprocessed foods through the lens of oxidative stress provides a clear explanation. Ultraprocessed foods:
+Experts have speculated for years why ultra-processed foods are far more obesogenic than whole foods. One prevailing theory is that they are “hyperpalatable” and therefore trigger overeating. While this is true in the short term, just as the brain resists weight loss by increasing hunger during a calorie deficit, it should also resist weight gain by decreasing hunger in a calorie surplus. This suggests that short-term calorie intake shouldn’t significantly affect the brain’s preferred adiposity level in the long run. However, viewing ultra-processed foods through the lens of oxidative stress provides a clear explanation. Ultra-processed foods:
 
 1. Typically have little protein. The amino acids glutamate, cysteine, and glycine, which come from eating high-quality proteins, are needed to synthesize glutathione, the body’s master antioxidant.
 
@@ -46,7 +46,7 @@ Experts have speculated for years why ultraprocessed foods are far more obesogen
 
 5. Contain refined sugar. Unlike natural high-sugar foods, such as fruit and raw honey, which contain antioxidants and nutrients that support the body’s antioxidant defense, refined sugar offers no additional nutrients or antioxidant benefits to combat ROS byproducts from its metabolism.
 
-Through a combination of high energy, few nutrients, seed oils, and additives, ultraprocessed foods are perfectly designed to deplete the activity of superoxide dismutase and glutathione in cells.
+Through a combination of high energy, few nutrients, seed oils, and additives, ultra-processed foods are perfectly designed to deplete the activity of superoxide dismutase and glutathione in cells.
 
 #### The Solution to Being Too Hungry
 
@@ -56,4 +56,4 @@ In the context of hunger neurons specifically, oxidative stress in the hypothala
 
 Conversely, restoring proper antioxidant function should reduce oxidative stress in the hypothalamus, thereby lowering inflammation, increasing leptin sensitivity, and allowing the inhibition of NPY/AgRP neurons with lower calorie intake.
 
-In other words, a healthy redox balance means appetite functions properly. A stressed redox balance results in an appetite that is higher than it should be. This implies that by restoring proper redox balance through food choices—rather than by restricting calories—we can normalize our neural biochemistry to regulate appetite. Beyond eliminating ultraprocessed foods from the diet, [this guide](https://www.stopbigfood.com/food-guide) contains some guidelines for making healthy food choices aimed at increasing leptin sensitivity by reducing oxidative stress.
+In other words, a healthy redox balance means appetite functions properly. A stressed redox balance results in an appetite that is higher than it should be. This implies that by restoring proper redox balance through food choices—rather than by restricting calories—we can normalize our neural biochemistry to regulate appetite. Beyond eliminating ultra-processed foods from the diet, [this guide](https://www.stopbigfood.com/food-guide) contains some guidelines for making healthy food choices aimed at increasing leptin sensitivity by reducing oxidative stress.
