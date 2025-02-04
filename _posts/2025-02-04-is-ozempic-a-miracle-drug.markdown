@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Is Ozempic A Miracle Drug? The Hidden Metabolic Truth"
+title: "Is Ozempic a Miracle Drug? The Hidden Metabolic Truth"
 date: "2025-02-04"
 permalink: "/is-ozempic-a-miracle-drug/"
 excerpt: "Ozempic can suppress hunger, but it won’t fix why you’re hungry."
