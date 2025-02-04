@@ -60,7 +60,7 @@ Indeed, [researchers have found strong associations](https://pubmed.ncbi.nlm.nih
 
 #### Do GLP-1 RAs Really Solve Obesity?
 
-GLP-1 RAs alleviate symptoms of metabolic dysfunction but do not address the root cause—nutrient-poor food choices that lead to oxidative stress. However, since obesity itself worsens health outcomes, reducing weight—even without fixing the underlying issues—still provides significant benefits.
+GLP-1 RAs alleviate symptoms of metabolic dysfunction but do not address the root cause—nutrient-poor food choices that lead to oxidative stress. However, reducing weight and improving blood sugar control—even without fixing the underlying issues—still provides significant benefits. Since metabolic dysfunction itself worsens health outcomes, alleviating it is still a meaningful improvement.
 
 While GLP-1 RAs can induce substantial weight loss, their effects are often temporary. One study found that [patients regained two-thirds of the weight they had lost within a year of stopping semaglutide](https://pubmed.ncbi.nlm.nih.gov/35441470/), even with diet counseling and exercise. This suggests that unless patients remain on these drugs indefinitely, long-term weight management requires a greater emphasis on food quality.
 
@@ -68,7 +68,7 @@ The diet counseling in the study primarily focused on calorie restriction, an ap
 
 #### Other Dangers
 
-While GLP-1 RAs can be effective for weight loss and metabolic health, they come with potential risks. Reported side effects include:
+GLP-1 RAs can be effective for weight loss and metabolic health, but they come with potential risks. Reported side effects include:
 
 - **Gastrointestinal discomfort** (nausea, vomiting, diarrhea)
 - **Constipation**
