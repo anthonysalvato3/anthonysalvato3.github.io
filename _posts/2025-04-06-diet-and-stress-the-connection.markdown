@@ -86,4 +86,6 @@ In other words:
     <figcaption>Poor diet and chronic stress have a similar effect on metabolism.</figcaption>
 </figure>
 
-So, including the aforementioned plant-based foods more strategically and sparingly—relative to animal foods and fruits—makes evolutionary sense. That said, the reason a plant-based diet, though nutritionally inferior in many respects, can still support metabolic health in the modern world is because many of its shortcomings can be mitigated with supplements and global access to a wide variety of plant foods. This allows consumers to construct a dietary pattern that isn't entirely dysfunctional—though still removed from ancestral norms.
+So, including the aforementioned plant-based foods more strategically and sparingly—relative to animal foods and fruits—makes evolutionary sense. That said, the reason a plant-based diet, though nutritionally inferior in many respects, can still support metabolic health in the modern world is because many of its shortcomings can be mitigated with supplements and global access to a wide variety of plant foods. This allows plant-based advocates to construct dietary patterns that aren't entirely dysfunctional—though still removed from ancestral norms.
+
+Likewise, maintaining healthy stress levels adds to the support of a nutritious diet. Combining both physical and psychological strategies helps balance appetite, fat accumulation, blood sugar, blood pressure, and other physiological processes by ensuring HPA activation does not perpetually signal a starvation state.
