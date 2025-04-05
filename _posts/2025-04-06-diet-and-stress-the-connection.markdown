@@ -34,7 +34,7 @@ The primary driver of negative health outcomes is chronic stress—most commonly
 
 The paraventricular nucleus (PVN) of the hypothalamus receives stress signals and responds by releasing corticotropin-releasing hormone (CRH) and arginine vasopressin (AVP) into the pituitary gland. In turn, the pituitary releases adrenocorticotropic hormone (ACTH) into the bloodstream. ACTH then stimulates the adrenal cortex to produce [glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)—the primary one in humans, by far, is cortisol.
 
-These details explain what the diagram is illustrating, but the key takeaway is simple: **stress leads to glucocorticoid release**. And chronic stress? That leads to **chronic glucocorticoid exposure**. To understand the impact of this, we can look at patients with Cushing's syndrome—a condition caused by prolonged glucocorticoid exposure, typically due to medication or tumors:
+These details explain what the diagram is illustrating, but the key takeaway is simple: **stress leads to glucocorticoid release**. And chronic stress? That leads to **chronic glucocorticoid exposure**. To understand the impact of this, we can look at patients with [Cushing's syndrome](https://en.wikipedia.org/wiki/Cushing's_syndrome)—a condition caused by prolonged glucocorticoid exposure, typically due to medication or tumors. Some of the key symptoms include:
 
 - Elevated blood glucose and insulin resistance
 - Accumulation of fat around the organs (visceral fat, aka beer belly)
@@ -56,7 +56,7 @@ In fact, a specific name exists—[steroid-induced diabetes](https://pmc.ncbi.nl
     <figcaption>Stress-Induced Diabetes: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9561544/">https://pmc.ncbi.nlm.nih.gov/articles/PMC9561544/</a></figcaption>
 </figure>
 
-It's important to understand that cortisol naturally fluctuates throughout the day and doesn't cause harm at normal physiological levels. Problems arise only with prolonged, elevated exposure. That means less cortisol is not inherently better—too little cortisol comes with its own set of issues. What matters most is maintaining cortisol within a healthy physiological range.
+It's important to understand that cortisol naturally fluctuates throughout the day and doesn't cause harm at normal physiological levels. Problems arise only with prolonged, elevated exposure. That means less cortisol is not inherently better—too little cortisol comes with its own set of issues. What matters most is maintaining cortisol within a healthy physiological range. Additionally, Cushing's syndrome differs from more typical forms of metabolic dysfunction because it results from direct glucocorticoid exposure rather than from indirect exposure via the HPA axis. While not a perfect 1-to-1 mirror of chronic stress, it still serves as a useful reference.
 
 #### Why Does Chronic Stress Have These Effects?
 
