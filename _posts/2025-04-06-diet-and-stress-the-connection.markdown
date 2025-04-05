@@ -32,7 +32,7 @@ The primary driver of negative health outcomes is chronic stress—most commonly
     <figcaption>The HPA Axis: <a href="https://pubmed.ncbi.nlm.nih.gov/24944037/">https://pubmed.ncbi.nlm.nih.gov/24944037/</a></figcaption>
 </figure>
 
-The paraventricular nucleus (PVN) of the hypothalamus receives stress signals and responds by releasing corticotropin-releasing hormone (CRH) and arginine vasopressin (AVP) into the pituitary gland. In turn, the pituitary releases adrenocorticotropic hormone (ACTH) into the bloodstream. ACTH then stimulates the adrenal cortex to produce [glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)—the primary one in humans, by far, is cortisol.
+The paraventricular nucleus (PVN) of the hypothalamus receives stress signals and responds by releasing corticotropin-releasing hormone (CRH) and arginine vasopressin (AVP) into the pituitary gland. In turn, the pituitary releases adrenocorticotropic hormone (ACTH) into the bloodstream. ACTH then stimulates the adrenal cortex to produce [glucocorticoids](https://en.wikipedia.org/wiki/Glucocorticoid)—the primary one in humans, by far, is [cortisol](https://en.wikipedia.org/wiki/Cortisol).
 
 These details explain what the diagram is illustrating, but the key takeaway is simple: **stress leads to glucocorticoid release**. And chronic stress? That leads to **chronic glucocorticoid exposure**. To understand the impact of this, we can look at patients with [Cushing's syndrome](https://en.wikipedia.org/wiki/Cushing's_syndrome)—a condition caused by prolonged glucocorticoid exposure, typically due to medication or tumors. Some of the key symptoms include:
 
@@ -68,9 +68,9 @@ This would involve preserving glucose in the blood to prioritize fueling the bra
 
 All energy production creates some degree of oxidative byproducts in cells. When a modern, high-oxidation diet is consumed—one that's low in antioxidant defense nutrients like protein, specific vitamins and minerals, and other protective factors such as polyphenols or regular exercise—while being high in energy and oxidation-prone refined oils [(Americans consume an average of 749 calories of refined oils per person per day)](https://www.fao.org/faostat/en/#data/FBS), the result is significant cellular damage.
 
-This is especially harmful to neurons in the brain that regulate energy balance and glucose metabolism. [The brain is particularly vulnerable to oxidative stress](https://pmc.ncbi.nlm.nih.gov/articles/PMC5881419/), and some of this damage can be observed through inflammation in the hypothalamus. When these neurons prioritize repair, they become resistant to the satiety hormone [leptin](https://en.wikipedia.org/wiki/Leptin).
+This is especially harmful to neurons in the brain that regulate energy balance and glucose metabolism. [The brain is particularly vulnerable to oxidative stress](https://pmc.ncbi.nlm.nih.gov/articles/PMC5881419/), and some of this damage can be observed through [inflammation in the hypothalamus](https://pmc.ncbi.nlm.nih.gov/articles/PMC10216879/). When these neurons prioritize repair, they become resistant to the satiety hormone [leptin](https://en.wikipedia.org/wiki/Leptin).
 
-Leptin normally acts to suppress the HPA axis, preventing the cascade of symptoms associated with chronic cortisol exposure. But when hypothalamic neurons are damaged, the leptin signals from fat cells—signals meant to communicate that the body has sufficient energy—are no longer properly received. As a result, the brain is tricked into believing the body is in, or approaching, a state of food scarcity, triggering activation of the HPA axis.
+[Leptin normally acts to suppress the HPA axis](https://pubmed.ncbi.nlm.nih.gov/31213533/), preventing the cascade of symptoms associated with chronic cortisol exposure. But when hypothalamic neurons are damaged, the leptin signals from fat cells—signals meant to communicate that the body has sufficient energy—are no longer properly received. As a result, the brain is tricked into believing the body is in, or approaching, a state of food scarcity, triggering activation of the HPA axis.
 
 #### Why Does This Make Sense Evolutionarily?
 
