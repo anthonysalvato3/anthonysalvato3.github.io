@@ -1,4 +1,11 @@
 .sib-form .input {
-    color: #3c4858 !important; /* Explicitly set a dark text color */
+  color: #3c4858 !important; /* Explicitly set a dark text color */
 }
-  
+
+.grecaptcha-badge {
+  bottom: 4px;
+  right: 4px;
+  transform: scale(0.5);
+  transform-origin: bottom right;
+  opacity: 0.3;
+}
