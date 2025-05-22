@@ -25,7 +25,7 @@ permalink: /contact/
     color: #3c4858;
     ">
   Your email:<br>
-  <input type="email" name="email" style="width: 100%; padding: 8px; margin-top: 4px; background-color:#ffffff">
+  <input type="email" name="email" style="width: 100%; padding: 8px; margin-top: 4px; background-color:#ffffff" required>
   </label>
   <label style="
     font-weight: 700;
@@ -37,7 +37,7 @@ permalink: /contact/
     color: #3c4858;
     ">
   Your message:<br>
-  <textarea name="message" style="width: 100%; padding: 8px; margin-top: 4px; background-color:#ffffff" rows="5"></textarea>
+  <textarea name="message" style="width: 100%; padding: 8px; margin-top: 4px; background-color:#ffffff" rows="5" required></textarea>
   </label>
   <button class="sib-form-block__button sib-form-block__button-with-loader" style="
     font-size: 16px;
