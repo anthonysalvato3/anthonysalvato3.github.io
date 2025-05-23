@@ -15,7 +15,7 @@ permalink: /contact/
   method="POST"
   style="background-color: #f2f3f3; border: 1px solid #ccc; border-radius: 6px; padding: 20px; max-width: 500px; margin: 0 auto;"
   >
-  <label style="
+  <label class="entry__label" style="
     font-weight: 700;
     text-align: left;
     font-size: 24px;
@@ -23,11 +23,11 @@ permalink: /contact/
     font-weight: 700;
     font-family: Helvetica, sans-serif;
     color: #3c4858;
-    ">
-  Your email:<br>
+    " data-required="*">
+  Your email<br>
   <input type="email" name="email" style="width: 100%; padding: 8px; margin-top: 4px; background-color:#ffffff" required>
   </label>
-  <label style="
+  <label class="entry__label" style="
     font-weight: 700;
     text-align: left;
     font-size: 24px;
@@ -35,8 +35,8 @@ permalink: /contact/
     font-weight: 700;
     font-family: Helvetica, sans-serif;
     color: #3c4858;
-    ">
-  Your message:<br>
+    " data-required="*">
+  Your message<br>
   <textarea name="message" style="width: 100%; padding: 8px; margin-top: 4px; background-color:#ffffff" rows="5" required></textarea>
   </label>
   <button class="sib-form-block__button sib-form-block__button-with-loader" style="
