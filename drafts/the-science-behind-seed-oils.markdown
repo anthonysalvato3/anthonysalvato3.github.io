@@ -48,12 +48,32 @@ We see increased AA production in both the cancer tumors _and_ in a live experim
 
 > **Tumors were found to contain significantly higher levels of the PUFA **arachidonic acid (AA)**, its derivatives, and its precursor **linoleic acid (LA)** than control samples.**
 
-#### Conclusion
-
-[Striking correlations](https://www.jeffnobbs.com/posts/what-causes-chronic-disease) between seed oil consumption and disease over the past century aren't enough on their own to implicate seed oils as a major culprit. However, actual trials support the correlations and present serious concerns. While evidence is not strong enough to conclude that home cooking at reasonable quantities and temperatures would cause noticeable problems, seed oil defenders ignore the most common means of consumption, which is through packaged and fried foods. At the same time, seed oils are inappropriately labeled as heart-healthy simply because they lower blood cholesterol levels. Even some of the most revered experts are so dogmatic that they invent [ridiculous falsehoods](https://med.stanford.edu/news/insights/2025/03/5-things-to-know-about-the-effects-of-seed-oils-on-health.html) like:
+#### Silly Quotes From Experts
 
 > _It's true that we eat more ultra-processed junk food than we ever have before, but the evidence is clear that the harms of this kind of food have more to do with their calories and their high amounts of added sugar, sodium and saturated fat than with seed oil._
 
-— Christopher Gardner
+— [Christopher Gardner](https://med.stanford.edu/news/insights/2025/03/5-things-to-know-about-the-effects-of-seed-oils-on-health.html)
 
 The sugar criticism is fair, and sodium is contextual, but junk foods are almost always _low_ in saturated fat because their fat comes from seed oils. So it doesn't make sense that I continuously see quotes from doctors and dietitians about junk food being high in SFA. Even given the extremely strict recommended limit on SFA intake, a diet composed entirely of potato chips would _still_ be under that limit. It's right on the nutrition label; how do these people have prestigious titles at world-class universities but forget how to read?
+
+> _But while some scientists argue that you shouldn't have too much omega 6 compared to omega 3, \[Matti\] Marklund says it's better to up your intake of omega 3 rather than consume less omega 6, as both are associated with health benefits._
+
+— [The BBC](https://www.bbc.com/future/article/20250530-are-seed-oils-really-bad-for-you)
+
+The average American consumes [749 calories of seed oil per day](https://www.fao.org/faostat/en/#data/FBS). That is an absurd amount of omega-6 PUFA. Omega-3 consumption should increase, but that's tough to fit without omega-6 consumption going down. Even ignoring all oxidation arguments, shouldn't Matti be encouraging people not to eat so much oil because it has almost zero nutritional value?
+
+> _We know that ultraprocessed foods generally are not good for your health. They are usually high in sodium or salt, added sugars, unhealthy fats, and additives. That's why it's bad for you, not the inclusion of seed oils._
+
+— [Matti Marklund](https://publichealth.jhu.edu/2025/the-evidence-behind-seed-oils-health-effects)
+
+I am curious to know which "unhealthy fats" Matti is talking about, because once again, the fats in ultra-processed foods are almost always exclusively seed oils.
+
+> _Some of the influencers are talking about getting rid of all the omega-6 in the diet, and that would be a terrible idea. Some omega-6 is absolutely required. The question is how much?_
+
+— [Tom Brenna](https://www.npr.org/2025/07/07/nx-s1-5453769/nutrition-canola-rfk-seed-oils-soybean)
+
+Consuming any source of fat will provide more than enough omega-6 PUFA, because every source of fat contains a mix of different types of fats. Even with a high-SFA carnivore diet, for example, enough omega-6 PUFA is present in the food. Short of consuming no fat at all, which would be deadly, consuming too little omega-6 PUFA is virtually impossible.
+
+#### Conclusion
+
+[Striking correlations](https://www.jeffnobbs.com/posts/what-causes-chronic-disease) between seed oil consumption and disease over the past century aren't enough on their own to implicate seed oils as a major culprit of declining health. However, controlled trials with oxidized oil support the correlations and present serious concerns. While evidence is not strong enough to conclude that home cooking at reasonable quantities and temperatures within a nutritious diet causes noticeable problems, seed oil defenders ignore the most common means of consumption, which is through packaged and fried foods. At the same time, seed oils are inappropriately labeled as heart-healthy simply because they lower blood cholesterol levels. Too many experts dismiss the concern of oxidized oil in junk food and point fingers at other ingredients instead. They also never mention the huge amount of oil that the average person is already consuming. No matter what kind of diet one follows, consuming fats from real foods should be a priority. With that strategy, the need for added fats is minimized.
