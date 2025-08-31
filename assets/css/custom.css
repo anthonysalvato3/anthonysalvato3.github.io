@@ -9,3 +9,7 @@
   transform-origin: bottom right;
   opacity: 0.3;
 }
+
+blockquote {
+  font-style: normal;
+}

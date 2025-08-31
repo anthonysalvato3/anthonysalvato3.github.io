@@ -1,3 +1,13 @@
+---
+layout: single
+title: "The Seed Oil Debate Demystified"
+date: "2025-08-31"
+permalink: "/the-seed-oil-debate-demystified/"
+excerpt: "A quest for objective truth surrounding seed oils."
+header:
+  teaser: "/assets/images/thumbnails/oil-wizard.png"
+---
+
 The tricky thing about science is that it never really proves anything; it only gathers evidence. Nutrition science is particularly tricky because of how much _lacks_ strong evidence. Worse, weak evidence is often dressed up as strong to push agendas or products. Recently, a growing number of nutrition enthusiasts have started fervently opposing the consumption of seed oils (typically marketed as "vegetable oils"). Some experts dismiss this concern, stating that evidence overwhelmingly supports the use of seed oils as both safe and healthy. In the past, most of us would have no choice but to accept these opinions at face value. But, thanks to the beauty of the information age, we can access cutting-edge science with a few clicks from the comfort of our bedrooms. It's still not always easy to figure things out, but this post distills the science into something simple and clear, so you’ll walk away with a much better understanding of what’s really going on with seed oils.
 
 #### Why Are Seed Oils Promoted as Healthy?
@@ -34,7 +44,7 @@ Curious minds often dismiss animal studies because they see a new cure for cance
 
 Total body weight, liver fat, and oxidative stress were significantly higher in rabbits fed RTHO, despite consuming less food! It's not a fluke; a [similar study](https://pubmed.ncbi.nlm.nih.gov/28959587/) was done on rats with similar results. So although rabbits and rats aren't the same as humans, we can see that oxidized oils may disrupt metabolic signaling beyond calories alone. It fits perfectly with my [Oxidative Stress as the Root of Metabolic Disease](https://stopbigfood.com/oxidative-stress-video/) model. To strengthen that hypothesis, we already observe that in humans, those who consume large amounts of oxidized oil (via ultra-processed food) are more likely to gain weight and experience health issues than those who don't. On the other hand, the results of STHO-fed animals were similar to that of the control groups, which suggests that normal use of seed oils for home cooking with limited heat exposure might not be as harmful as the anti-seed-oil crowd claims. That's probably because endogenous antioxidant defense systems can handle _some_ amount of oxidation, so un-oxidized PUFAs from natural foods and moderately-oxidized PUFAs from STHO do not cause the same problems as the extremely-oxidized PUFAs in RTHO. In short, eating oil from ultra-processed/fast food leads to much higher oxidative stress than cooking from home with the same oil, because oil in factory manufacturing or in a deep fryer is exposed to much more heat/light/pressure. But it might also depend on the total oxidative burden in the subject; perhaps STHO could be enough to tip the balance in favor of oxidative stress for people close to their antioxidant defense limits. We don't really know, which is why I prefer cooking with butter and tallow for their oxidative stability (and great taste).
 
-> **Un-oxidized polyunsaturated fats (PUFAs) from natural foods and moderately-oxidized PUFAs from single-time heated oil do not cause the same problems as the extremely-oxidized PUFAs in repeated-time heated oil.**
+> **Un-oxidized polyunsaturated fats (PUFAs) from natural foods and moderately-oxidized PUFAs from single-time heated oil do not cause the same problems as the extremely-oxidized PUFAs in repeated time heated oil.**
 
 #### Are Seed Oils Contributing to Colon Cancer?
 
@@ -46,7 +56,7 @@ So if food sources of LA might increase colon cancer risk, does that mean foods 
 
 We see increased AA production in both the cancer tumors _and_ in a live experiment with consumption of heated oil, supporting the idea that the inflammatory cascade caused by oxidation might be fueling this tumor growth. Here’s where I’ll briefly call out internet misinformation on both sides of the seed oil debate. Some seed oil opponents argue that AA itself is inherently inflammatory and therefore PUFAs should be avoided in favor of SFAs from meat. But this is misleading because AA is actually abundant in meat! During normal metabolism, AA plays essential roles in cell signaling, and increased amounts of it show up incidentally as part of the inflammatory cascade from oxidized LA, but the AA is a symptom and not the cause of the problem. On the other hand, seed oil defenders often stop at saying “LA and AA aren’t inflammatory,” while ignoring the evidence that oxidized LA is. So both seed oil proponents and opponents are missing important pieces of what's happening, which is why the debate often feels like it’s going in circles.
 
-> **Tumors were found to contain significantly higher levels of the PUFA **arachidonic acid (AA)**, its derivatives, and its precursor **linoleic acid (LA)** than control samples.**
+> **Tumors were found to contain significantly higher levels of the PUFA arachidonic acid (AA), its derivatives, and its precursor linoleic acid (LA) than control samples.**
 
 #### Silly Quotes From Experts
 
