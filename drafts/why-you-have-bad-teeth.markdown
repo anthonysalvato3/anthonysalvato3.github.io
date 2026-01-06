@@ -43,3 +43,5 @@ https://pubmed.ncbi.nlm.nih.gov/8179508/
 
 Protein intake: https://pmc.ncbi.nlm.nih.gov/articles/PMC9653899/
 Salt rinse: https://pubmed.ncbi.nlm.nih.gov/28914244/
+Metabolic syndrome and tooth decay: https://pubmed.ncbi.nlm.nih.gov/25716056/
+Disease and salivary flow: https://pmc.ncbi.nlm.nih.gov/articles/PMC8461045/
