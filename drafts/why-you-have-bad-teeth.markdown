@@ -14,19 +14,33 @@ Strong evidence supports a fascinating idea: the ability for saliva to protect t
 
 > **A stressful diet, in addition to causing other metabolic diseases, impairs the protective effects of saliva.**
 
-#### Phytates Impair Mineral Absorption
+#### Vegetarians Have More Tooth Decay
 
-For decades, dietary dogma has included using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet (which, funnily enough, is not diverse at all; they are all just different types of seeds). Unfortunately, these foods contain [antinutrients](https://en.wikipedia.org/wiki/Antinutrient), namely phytic acid, that reduce the absorption of dietary minerals like zinc, copper, calcium, and magnesium; all of which are critical to good dental health. That doesn't mean these foods are the bubonic plague. What it does mean that a conventional health enthusiast who is consuming large quantities of these foods every day, while at the same time limiting more nutrient-rich foods like meat, eggs, and fish because pop culture headlines say they are bad, [continue here](poop).
+This is very interesting: [here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is you're not actually comparing vegetarians with meat-eaters; you're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, meaning socioeconomic factors likely played a role as well. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about certain lifestyle patterns that promote more tooth decay than others.
 
-#### Zinc
+#### Phytic Acid Impairs Mineral Absorption
 
-[This study](https://pubmed.ncbi.nlm.nih.gov/24815985/) demonstrates zinc's importance on the integrity of tooth enamel. [Several plant foods, like oats](https://www.health.harvard.edu/nutrition/zinc-what-it-does-for-the-body-and-the-best-food-sources), include an abundance of zinc, so most plant-focused eaters should not have a problem eating enough on paper. And yet, a number of studies like [this one](https://pubmed.ncbi.nlm.nih.gov/40580803/) plainly state:
+For decades, dietary trends have promoted using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet (which, funnily enough, is not very diverse because these are all just different types of seeds). What's important to know is that many of these foods contain **phytic acid**, an [antinutrient](https://en.wikipedia.org/wiki/Antinutrient) that reduces the absorption of dietary minerals like zinc, calcium, and magnesium; all of which are critical for strong teeth. Antinutrients make sense biologically to help plants avoid unwanted predation, but they are an overlooked component of nutritional planning. Conventional health enthusiasts who are consuming large quantities of these foods every day, while at the same time limiting nutrient-rich foods like meat, eggs, and fish because of pop culture headlines, are setting themselves up for mineral deficiencies. Cultures in the distant past [discovered brilliant preparation methods to lower antinutrients from these foods](https://pubmed.ncbi.nlm.nih.gov/17374686/), but those processes are rarely used in basic modern cooking. The pertinent question: are antinutrients strong enough to meaningfully impact mineral levels in the human body such that a noticeably reduced amount is detected?
+
+In short, yes and no, depending on the mineral. [This Oxford-published article](https://academic.oup.com/ijfst/article/37/7/727/7913066) analyzes the impact of phytic acid on the absorption of different dietary minerals. Our focus is on teeth, so we're paying attention to zinc, calcium, and magnesium specifically.
+
+#### Phytic Acid and Calcium
+
+We know definitively that phytic acid impairs calcium absorption, but there's no good evidence that this impact is meaningful in a human diet. Measuring adequate calcium intake isn't an exact science because blood levels of calcium depend on many factors. But other measurements, like bone mineral density (BMD), can be used to get a rough idea. [Here is a paper](https://pubmed.ncbi.nlm.nih.gov/24898231/) published analyzing BMD in vegetarians compared with omnivores. While there is some research to suggest vegetarian BMD to be modestly lower, the degree is not clinically significant, and the results are inconsistent between studies. So presumably, phytic acid is not impactful on calcium levels within realistic dietary boundaries.
+
+#### Phytic Acid and Magnesium
+
+(poop)
+
+[The Oxford article](https://academic.oup.com/ijfst/article/37/7/727/7913066)
+
+Now that we have observed that vegetarians tend to have greater risk of tooth decay, we can hypothesize that perhaps compared to omnivores, their higher phytic acid intake reduces the dietary absorption of tooth-strengthening minerals.
+
+[This study](https://pubmed.ncbi.nlm.nih.gov/24815985/) demonstrates zinc's importance on the integrity of tooth enamel. [Several plant foods, like oats](https://www.health.harvard.edu/nutrition/zinc-what-it-does-for-the-body-and-the-best-food-sources), include an abundance of zinc, so most plant-focused eaters should not have a problem eating enough in theory. And yet, a number of studies like [this one](https://pubmed.ncbi.nlm.nih.gov/40580803/) plainly state:
 
 > _We observed a high prevalence of imminent or manifest zinc deficiency among vegetarians and vegans._
 
 It is therefore reasonable to conclude that anyone who relies on phytate-rich foods as staples (not just vegetarians) should be more wary of zinc intake.
-
-Now that we've covered the obvious stuff, let's look at some surprising research findings. [Here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is you're not actually comparing vegetarians with meat-eaters; you're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, meaning socioeconomic factors likely played a role as well. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about certain lifestyle patterns that promote more tooth decay than others.
 
 #### Iron
 
@@ -36,3 +50,4 @@ Protein intake: https://pmc.ncbi.nlm.nih.gov/articles/PMC9653899/
 Salt rinse: https://pubmed.ncbi.nlm.nih.gov/28914244/
 Metabolic syndrome and tooth decay: https://pubmed.ncbi.nlm.nih.gov/25716056/
 Disease and salivary flow: https://pmc.ncbi.nlm.nih.gov/articles/PMC8461045/
+Oxalates: https://pubmed.ncbi.nlm.nih.gov/3681480/
