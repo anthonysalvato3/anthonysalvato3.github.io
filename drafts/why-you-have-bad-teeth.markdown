@@ -1,24 +1,24 @@
 The dentist always says the same thing: floss every day, brush twice per day, don't eat too much sugar. But it seems no matter how well you follow this advice, you're always having dental issues anyway. You believe you're genetically cursed, but the reality is there are other extremely important factors you have yet to learn about. My hope is that by reading this, you'll save yourself the physical pain of those scary metal tools and the financial pain of burning thousands of dollars on procedures. You'll also be equipped to ask your dentist more probing questions and really get your money's worth on consulting their expertise.
 
-### Tooth Defense Part 1: Acidity
+### Tooth Defense Part 1: Acidity and Saliva
 
-First, let's recap the commonly known dietary factors impacting oral health: sugary, starchy, and acidic foods. Sugars don't directly damage teeth; instead, they feed bacteria that promote an acidic environment in the mouth, and those acids erode tooth enamel. Starches are broken down into simple sugars by the amylase enzyme in saliva, creating the same effect. And of course, acidic foods/beverages like citrus fruits and coffee or soda can similarly damage teeth, even when they are sugar-free. [This 2004 paper](https://pubmed.ncbi.nlm.nih.gov/14685022/) with 624 citations at this time of writing describes much of this common knowledge, but it also highlights a hidden secret:
+#### Acid Damages Enamel and Causes Cavities
+
+First, let's recap the commonly known dietary factors impacting oral health: sugary, starchy, and acidic foods. Sugars don't directly damage teeth; instead, they feed bacteria that promote an acidic environment in the mouth, and those acids erode tooth enamel. Starches are broken down into simple sugars by the amylase enzyme in saliva, creating the same effect. And of course, acidic foods/beverages like citrus fruits and coffee or soda can similarly damage teeth, even when they are sugar-free. [This 2004 paper](https://pubmed.ncbi.nlm.nih.gov/14685022/) with 624 citations at this time of writing describes much of this common knowledge, but it also highlights a lesser-known secret:
 
 > _A very important biological parameter is saliva. Several salivary protective mechanisms come into play during an erosive challenge: dilution and clearance of an erosive agent from the mouth, neutralisation and buffering of acids, and slowing down the rate of enamel dissolution through the common ion effect by salivary calcium and phosphate_ [Zero and Lussi, 2000].\_
 
-Saliva is a protective agent against foods that typically erode teeth, working preventatively to protect against acids and remedially to remineralize enamel once damaged. So the goal as humans who enjoy eating is not to panic over foods that can damage teeth, but to maintain a proper salivary profile that allows us to consume these foods in reasonable amounts without any lasting consequences. What will follow in this discussion here is demonstrating that people who are stumped about their recurring dental problems don't magically have bad teeth for no reason, but simply have room to improve their salivary protection.
+Saliva is a protective agent against foods that typically erode teeth, working preventatively to protect against acids and remedially to remineralize enamel once damaged. The goal as humans who enjoy eating is not to panic over foods that can damage teeth, but to maintain a proper salivary profile that allows us to consume these foods in reasonable amounts without any lasting consequences. Part of our discussion will be to demonstrate that people who are stumped about their recurring dental problems don't magically have bad teeth for no reason, but simply have room to improve their salivary protection.
 
 > **Besides well-known dental hygiene practices, don't forget about saliva**
 
-### Tooth Defense Part 2: Saliva
+#### Salivary Defense
 
-#### Saliva: The Tooth Defender
-
-Strong evidence supports a fascinating idea: the ability for saliva to protect teeth depends on overall metabolic health. [This animal study](https://pubmed.ncbi.nlm.nih.gov/30336621/) demonstrates that a stressful high-sugar diet impairs salivary gland function; not only does salivary flow rate decrease, but the protein content of the saliva decreases, reducing its protective capacity. Note that the presence of oxidative damage to salivary glands suggests that the effect isn't specifically due to sugar, but can be caused by any diet that promotes an unfavorable redox balance, i.e., any diet where nutrient value is insufficient to combat the oxidation created from the sum of energy intake and other external sources (consuming oxidized oils, environmental pollution, smoking, etc.). The same is true for many diseases; an unfavorable redox balance compromises the functions of bodily systems, promoting various diseases due to the body adapting to a stressed state. That means we should also expect people with metabolic diseases to experience tooth decay at higher rates, which is exactly what we see in observational data. [Here is a study](https://pubmed.ncbi.nlm.nih.gov/25716056/) of middle-aged Japanese men, comparing those who suffered from tooth decay with those who didn't. Those with tooth decay were much more likely to have [metabolic syndrome](https://en.wikipedia.org/wiki/Metabolic_syndrome), even after other variables like age, smoking status, and amount of physical activity were controlled for. Granted, observational studies can't control for every variable, but combining this data with the aforementioned animal study presents a strong argument that indeed, metabolically unhealthy people are much more likely to have problems with tooth decay. Some estimates calculate as many as [88.2% of American adults to be metabolically unhealthy](https://pubmed.ncbi.nlm.nih.gov/30484738/), so the high prevalence of tooth struggles is unsurprising.
+I'm going to pitch a fascinating idea right now: the ability for saliva to protect teeth depends on overall metabolic health. [This animal study](https://pubmed.ncbi.nlm.nih.gov/30336621/) demonstrates that a stressful high-sugar diet impairs salivary gland function; not only does salivary flow rate decrease, but the protein content of the saliva decreases, reducing its protective capacity. Note that the presence of oxidative damage to salivary glands suggests that the effect isn't specifically due to sugar, but can be caused by any diet that promotes an unfavorable redox balance, i.e., any diet where nutrient value is insufficient to combat the oxidation created from the sum of energy intake and other external sources (consuming oxidized oils, environmental pollution, smoking, etc.). The same is true for many chronic diseases, and is a recurring theme in this blog; an unfavorable redox balance compromises the functions of bodily systems, promoting various diseases due to the body adapting to a stressed state. That means we should also expect people with metabolic diseases to experience tooth decay at higher rates, which is exactly what we see in observational data. [Here is a study](https://pubmed.ncbi.nlm.nih.gov/25716056/) of middle-aged Japanese men, comparing those who suffered from tooth decay with those who didn't. Those with tooth decay were much more likely to have [metabolic syndrome](https://en.wikipedia.org/wiki/Metabolic_syndrome), even after other variables like age, smoking status, and amount of physical activity were controlled for. Granted, observational studies can't control for every variable, but combining this data with the aforementioned animal study concocts a strong argument: metabolically unhealthy people are much more likely than healthy ones to have problems with tooth decay because their saliva is sparse and weak. Some estimates calculate as many as [88.2% of American adults to be metabolically unhealthy](https://pubmed.ncbi.nlm.nih.gov/30484738/), so it's no wonder teeth are a constant societal struggle.
 
 > **A stressful diet, in addition to causing other metabolic diseases, impairs the protective effects of saliva.**
 
-### Tooth Defense Part 3: Mineral Balance
+### Tooth Defense Part 2: Mineral Balance
 
 #### Vegetarians Have More Tooth Decay
 
@@ -38,13 +38,21 @@ We know definitively that PA impairs calcium absorption, but there's no good evi
 
 [PA has been shown to impair magnesium absorption in humans](https://pubmed.ncbi.nlm.nih.gov/14985216/), but that is offset by the magnesium concentration in PA foods. That's why we see [comparable magnesium status](https://pubmed.ncbi.nlm.nih.gov/15454974/) of people on plant-centric and control diets; plant-centric diets are higher in PA, but they usually contain more magnesium. No issues here.
 
-Now that we have observed that vegetarians tend to have greater risk of tooth decay, we can hypothesize that perhaps compared to omnivores, their higher phytic acid intake reduces the dietary absorption of tooth-strengthening minerals.
+#### Phytic Acid and Zinc
 
-[This study](https://pubmed.ncbi.nlm.nih.gov/24815985/) demonstrates zinc's importance on the integrity of tooth enamel. [Several plant foods, like oats](https://www.health.harvard.edu/nutrition/zinc-what-it-does-for-the-body-and-the-best-food-sources), include an abundance of zinc, so most plant-focused eaters should not have a problem eating enough in theory. And yet, a number of studies like [this one](https://pubmed.ncbi.nlm.nih.gov/40580803/) plainly state:
+Here is a clear difference. A number of studies like [this one](https://pubmed.ncbi.nlm.nih.gov/40580803/) plainly state:
 
 > _We observed a high prevalence of imminent or manifest zinc deficiency among vegetarians and vegans._
 
-It is therefore reasonable to conclude that anyone who relies on phytate-rich foods as staples (not just vegetarians) should be more wary of zinc intake.
+Is the deficiency an abundance problem or an absorption one? [Several plant foods, like oats](https://www.health.harvard.edu/nutrition/zinc-what-it-does-for-the-body-and-the-best-food-sources), include an abundance of zinc, so most plant-focused eaters should not have a problem eating enough in theory. However, zinc's bioavailability in plant foods is reduced to the point where getting enough is challenging. As cited in the [Oxford paper](https://academic.oup.com/ijfst/article/37/7/727/7913066):
+
+> _PA is the major determinant of Zn absorption, especially for diets with a low animal protein content._
+
+Not only is PA hugely impactful on the absorption of zinc, but compounding the issue is a lack of peptides from animal protein to promote zinc absorption in the gut. Ironically, although calcium is important for teeth as well, high levels of it in the gut when combined with PA impair zinc absorption even further. Finally, [this study](https://pubmed.ncbi.nlm.nih.gov/24815985/) concretely demonstrates zinc's importance on the integrity of tooth enamel. Therefore, the conclusion that zinc-deficient people have weak enamel and are more susceptible to tooth decay bridges perfectly with the observation that vegetarians, who are often zinc-deficient due to high PA consumption, are at greater risk of tooth decay compared with their omnivorous peers.
+
+#### Phytic acid and Iron
+
+(poop)
 
 #### Iron
 
