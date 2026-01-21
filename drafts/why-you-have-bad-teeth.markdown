@@ -12,7 +12,7 @@ Saliva is a protective agent against foods that typically erode teeth, working p
 
 > **Besides well-known food and hygiene practices, saliva is important**
 
-#### Metabolism and Saliva
+#### Metabolism
 
 I'm going to pitch a fascinating idea right now: the ability for saliva to protect teeth depends on overall metabolic health. [This animal study](https://pubmed.ncbi.nlm.nih.gov/30336621/) demonstrates that a stressful high-sugar diet impairs salivary gland function; not only does salivary flow rate decrease, but the protein content of the saliva decreases, reducing its protective capacity. Note that the presence of oxidative damage to salivary glands suggests that the effect isn't specifically due to sugar, but can be caused by any diet that promotes an unfavorable redox balance, i.e., any diet where nutrient value is insufficient to combat the oxidation created from energy intake and other external sources (oxidized oils, environmental pollution, smoking, etc.). The same is true for many chronic diseases, and is a recurring theme in this blog; an unfavorable redox balance compromises the functions of bodily systems, promoting various diseases due to the body adapting to a stressed state.
 
@@ -20,7 +20,7 @@ That means we should also expect human subjects with metabolic diseases to exper
 
 > **A stressful diet, in addition to causing other metabolic diseases, impairs the protective effects of saliva.**
 
-#### Drugs That Impair Saliva
+#### Drugs
 
 A long list of medications can cause dry mouth as a side effect, making teeth more vulnerable; check labels and consult your preferred medical professionals. Two common non-prescription drugs, caffeine and alcohol, act as diuretics and can also lead to increased mouth dryness. [The 85% of Americans who consume at least one caffeinated beverage per day](https://pubmed.ncbi.nlm.nih.gov/24189158/) should be aware of this and make sure to stay hydrated while moderating their caffeine intake.
 
@@ -34,7 +34,7 @@ This is very interesting: [here is a simple observational study](https://pubmed.
 
 For decades, dietary trends have promoted using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet. As a funny side note, these foods are all different types of seeds, so what looks diverse on the surface is not really diverse at all. But what's important to know is that many of these foods contain **phytic acid (PA)**, an [antinutrient](https://en.wikipedia.org/wiki/Antinutrient) that reduces the absorption of dietary minerals like zinc, calcium, magnesium, and iron; all of which are critical for strong teeth. Antinutrients make sense biologically to help plants avoid unwanted predation, and they are an oft-overlooked component of nutritional planning. So we want to pay attention to the conventional health enthusiasts who are consuming large quantities of these foods every day, while at the same time limiting nutrient-rich foods like meat, eggs, and fish because of pop culture headlines. Societies in the distant past [discovered brilliant preparation methods to lower antinutrients from these foods](https://pubmed.ncbi.nlm.nih.gov/17374686/), but those processes are rarely used in basic modern cooking. So here's what we want to figure out: are antinutrients strong enough to meaningfully impact mineral levels in the human body and cause problems?
 
-Let's find out. [This Oxford-published article](https://academic.oup.com/ijfst/article/37/7/727/7913066) analyzes the impact of PA on the absorption of different dietary minerals. I'll summarize the analysis of these minerals one by one, while also presenting additional evidence.
+[This Oxford-published article](https://academic.oup.com/ijfst/article/37/7/727/7913066) analyzes the impact of PA on the absorption of different dietary minerals. I'll summarize the analysis of these minerals one by one, while also presenting additional evidence.
 
 #### Phytic Acid and Calcium
 
@@ -70,6 +70,6 @@ Metabolic syndrome and tooth decay: https://pubmed.ncbi.nlm.nih.gov/25716056/
 Disease and salivary flow: https://pmc.ncbi.nlm.nih.gov/articles/PMC8461045/
 Oxalates: https://pubmed.ncbi.nlm.nih.gov/3681480/
 
-### Part 3: Useful Hacks
+### Part 3: Useful Tricks
 
 Automated brushing/flossing, honey vs sugar, chewing gum, salt rinse
