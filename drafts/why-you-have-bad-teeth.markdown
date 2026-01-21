@@ -1,14 +1,14 @@
 The dentist always says the same thing: floss every day, brush twice per day, don't eat too much sugar. But it seems no matter how well you follow this advice, you're always having dental issues anyway. You believe you're genetically cursed, but the reality is there are other extremely important factors you have yet to learn about. My hope is that by reading this, you'll save yourself the physical pain of those scary metal tools and the financial pain of burning thousands of dollars on procedures. You'll also be equipped to ask your dentist more probing questions and really get your money's worth on consulting their expertise.
 
-### Tooth Defense Part 1: Acidity and Saliva
+### Part 1: Acidity and Saliva
 
-#### Acid Damages Enamel and Causes Cavities
+#### Acid Damages Enamel, Saliva Protects It
 
 First, let's recap the commonly known dietary factors impacting oral health: sugary, starchy, and acidic foods. Sugars don't directly damage teeth; instead, they feed bacteria that promote an acidic environment in the mouth, and those acids erode tooth enamel. Starches are broken down into simple sugars by the amylase enzyme in saliva, creating the same effect. And of course, acidic foods/beverages like citrus fruits and coffee or soda can similarly damage teeth, even when they are sugar-free. [This 2004 paper](https://pubmed.ncbi.nlm.nih.gov/14685022/) with 624 citations at this time of writing describes much of this common knowledge, but it also highlights a lesser-known secret:
 
-> _A very important biological parameter is saliva. Several salivary protective mechanisms come into play during an erosive challenge: dilution and clearance of an erosive agent from the mouth, neutralisation and buffering of acids, and slowing down the rate of enamel dissolution through the common ion effect by salivary calcium and phosphate_ [Zero and Lussi, 2000].\_
+> _A very important biological parameter is saliva. Several salivary protective mechanisms come into play during an erosive challenge: dilution and clearance of an erosive agent from the mouth, neutralisation and buffering of acids, and slowing down the rate of enamel dissolution through the common ion effect by salivary calcium and phosphate [Zero and Lussi, 2000]._
 
-Saliva is a protective agent against foods that typically erode teeth, working preventatively to protect against acids and remedially to remineralize enamel once damaged. The goal as humans who enjoy eating is not to panic over foods that can damage teeth, but to maintain a proper salivary profile that allows us to consume these foods in reasonable amounts without any lasting consequences. Part of our discussion will be to demonstrate that people who are stumped about their recurring dental problems don't magically have bad teeth for no reason, but simply have room to improve their salivary protection.
+Saliva is a protective agent against foods that typically erode teeth, working preventatively to buffer against acids and remedially to remineralize enamel once damaged. The goal as humans who enjoy eating is not to panic over foods that can damage teeth, but to maintain a proper salivary profile that allows us to consume these foods in reasonable amounts without any lasting consequences. People who are stumped about their recurring dental problems don't magically have bad teeth for no reason, but may simply have some combination of completely fixable problems that I'll explain below, including weak saliva.
 
 > **Besides well-known dental hygiene practices, don't forget about saliva**
 
@@ -18,17 +18,17 @@ I'm going to pitch a fascinating idea right now: the ability for saliva to prote
 
 > **A stressful diet, in addition to causing other metabolic diseases, impairs the protective effects of saliva.**
 
-### Tooth Defense Part 2: Mineral Balance
+### Part 2: You Have Not Enough Minerals
 
 #### Vegetarians Have More Tooth Decay
 
-This is very interesting: [here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is you're not actually comparing vegetarians with meat-eaters; you're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, meaning socioeconomic factors likely played a role as well. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about this lifestyle pattern, or closely-related ones, that might promote tooth decay. I did the research and came up with a plausible reason: phytic acid. Get ready to learn.
+This is very interesting: [here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is you're not actually comparing vegetarians with meat-eaters; you're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, suggesting socioeconomic advantages. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about this lifestyle pattern, or closely-related ones, that might promote tooth decay. I did the research and came up with a plausible reason: phytic acid. Get ready to learn.
 
 #### Phytic Acid Impairs Mineral Absorption
 
-For decades, dietary trends have promoted using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet. As a funny side note, these foods are all different types of seeds, so what looks diverse on the surface is not really diverse at all. But what's important to know is that many of these foods contain **phytic acid (PA)**, an [antinutrient](https://en.wikipedia.org/wiki/Antinutrient) that reduces the absorption of dietary minerals like zinc, calcium, magnesium, and iron; all of which are critical for strong teeth. Antinutrients make sense biologically to help plants avoid unwanted predation, and they are an oft-overlooked component of nutritional planning. So we want to pay attention to the conventional health enthusiasts who are consuming large quantities of these foods every day, while at the same time limiting nutrient-rich foods like meat, eggs, and fish because of pop culture headlines. Cultures in the distant past [discovered brilliant preparation methods to lower antinutrients from these foods](https://pubmed.ncbi.nlm.nih.gov/17374686/), but those processes are rarely used in basic modern cooking. So here's what we want to figure out: are antinutrients strong enough to meaningfully impact mineral levels in the human body such that a noticeably reduced amount is detected?
+For decades, dietary trends have promoted using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet. As a funny side note, these foods are all different types of seeds, so what looks diverse on the surface is not really diverse at all. But what's important to know is that many of these foods contain **phytic acid (PA)**, an [antinutrient](https://en.wikipedia.org/wiki/Antinutrient) that reduces the absorption of dietary minerals like zinc, calcium, magnesium, and iron; all of which are critical for strong teeth. Antinutrients make sense biologically to help plants avoid unwanted predation, and they are an oft-overlooked component of nutritional planning. So we want to pay attention to the conventional health enthusiasts who are consuming large quantities of these foods every day, while at the same time limiting nutrient-rich foods like meat, eggs, and fish because of pop culture headlines. Societies in the distant past [discovered brilliant preparation methods to lower antinutrients from these foods](https://pubmed.ncbi.nlm.nih.gov/17374686/), but those processes are rarely used in basic modern cooking. So here's what we want to figure out: are antinutrients strong enough to meaningfully impact mineral levels in the human body and cause problems?
 
-In short, yes and no, depending on the mineral. [This Oxford-published article](https://academic.oup.com/ijfst/article/37/7/727/7913066) analyzes the impact of PA on the absorption of different dietary minerals. I'll summarize the analysis of these minerals one by one, while also presenting some additional evidence.
+Let's find out. [This Oxford-published article](https://academic.oup.com/ijfst/article/37/7/727/7913066) analyzes the impact of PA on the absorption of different dietary minerals. I'll summarize the analysis of these minerals one by one, while also presenting additional evidence.
 
 #### Phytic Acid and Calcium
 
@@ -48,7 +48,7 @@ Is the deficiency an abundance problem or an absorption one? [Several plant food
 
 > _PA is the major determinant of Zn absorption, especially for diets with a low animal protein content._
 
-Not only is PA hugely impactful on the absorption of zinc, but compounding the issue is a lack of peptides from animal protein to promote zinc absorption in the gut. Ironically, although calcium is important for teeth as well, high levels of it in the gut when combined with PA impair zinc absorption even further. Finally, [this study](https://pubmed.ncbi.nlm.nih.gov/24815985/) concretely demonstrates zinc's importance on the integrity of tooth enamel. Therefore, the conclusion that zinc-deficient people have weak enamel and are more susceptible to tooth decay bridges perfectly with the observation that vegetarians, who are often zinc-deficient due to high PA consumption, are at greater risk of tooth decay compared with their omnivorous peers.
+Not only is PA hugely impactful on the absorption of zinc, but a couple of other issues compound the problem. First, a bit of irony: although calcium is important for teeth as well, it works synergistically with PA in the gut to impair zinc absorption even further. Second, vegetarians consume little to no animal protein, which means a lack of peptides to promote zinc absorption even when PA is not considered. Finally, [this study](https://pubmed.ncbi.nlm.nih.gov/24815985/) concretely demonstrates zinc's importance on the integrity of tooth enamel. Therefore, the conclusion that zinc-deficient people have weak enamel and are more susceptible to tooth decay bridges perfectly with the observation that vegetarians, who are often zinc-deficient due to high PA consumption, are at greater risk of tooth decay compared with their omnivorous peers.
 
 #### Phytic acid and Iron
 
@@ -64,6 +64,6 @@ Metabolic syndrome and tooth decay: https://pubmed.ncbi.nlm.nih.gov/25716056/
 Disease and salivary flow: https://pmc.ncbi.nlm.nih.gov/articles/PMC8461045/
 Oxalates: https://pubmed.ncbi.nlm.nih.gov/3681480/
 
-### Tooth Defense Part 4: Useful Hacks
+### Part 3: Useful Hacks
 
 Automated brushing/flossing, honey vs sugar, chewing gum, salt rinse
