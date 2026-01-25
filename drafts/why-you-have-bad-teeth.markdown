@@ -30,6 +30,8 @@ A long list of medications can cause dry mouth as a side effect, making teeth mo
 
 This is very interesting: [here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is you're not actually comparing vegetarians with meat-eaters; you're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, suggesting socioeconomic advantages. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about this lifestyle pattern, or closely-related ones, that might promote tooth decay. I did the research and came up with a plausible reason: phytic acid. Get ready to learn.
 
+> **Phytic acid in human diets is a likely reason why vegetarians have more tooth decay than omnivores.**
+
 #### Phytic Acid Impairs Mineral Absorption
 
 For decades, dietary trends have promoted using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet. As a funny side note, these foods are all different types of seeds, so what looks diverse on the surface is not really diverse at all. But what's important to know is that many of these foods contain **phytic acid (PA)**, an [antinutrient](https://en.wikipedia.org/wiki/Antinutrient) that reduces the absorption of dietary minerals like zinc, calcium, magnesium, and iron; all of which are critical for strong teeth. Antinutrients make sense biologically to help plants avoid unwanted predation, and they are an oft-overlooked component of nutritional planning. So we want to pay attention to the conventional health enthusiasts who are consuming large quantities of these foods every day, while at the same time limiting nutrient-rich foods like meat, eggs, and fish because of pop culture headlines. Societies in the distant past [discovered brilliant preparation methods to lower antinutrients from these foods](https://pubmed.ncbi.nlm.nih.gov/17374686/), but those processes are rarely used in basic modern cooking. So here's what we want to figure out: are antinutrients strong enough to meaningfully impact mineral levels in the human body and cause problems?
@@ -56,20 +58,28 @@ Is the deficiency an abundance problem or an absorption one? [Several plant food
 
 Not only is PA hugely impactful on the absorption of zinc, but a couple of other issues compound the problem. First, a bit of irony: although calcium is important for teeth as well, it works synergistically with PA in the gut to impair zinc absorption even further. Second, vegetarians consume little to no animal protein, which means a lack of peptides to promote zinc absorption even when PA is not considered. Finally, [this study](https://pubmed.ncbi.nlm.nih.gov/24815985/) concretely demonstrates zinc's importance on the integrity of tooth enamel. Therefore, the conclusion that zinc-deficient people have weak enamel and are more susceptible to tooth decay bridges perfectly with the observation that vegetarians, who are often zinc-deficient due to high PA consumption, are at greater risk of tooth decay compared with their omnivorous peers.
 
-#### Phytic acid and Iron
+#### Phytic Acid and Iron
 
-(poop)
+Iron deficiency worldwide is extremely common, and [vegetarians have repeatedly been shown to have lower iron stores than omnivores](https://pubmed.ncbi.nlm.nih.gov/27880062/). The reason is twofold: first, dietary iron comes in two forms: heme and non-heme. [Heme iron, found in meats, is absorbed 3.7x more easily than non-heme iron, found in plants](https://pubmed.ncbi.nlm.nih.gov/1581009/). Second, [PA is a major contributor to reduced iron absorption](https://academic.oup.com/ijfst/article/37/7/727/7913066). Human observations, animal experiments, and in-vitro analysis all align to show iron's impact on tooth decay. Iron-deficient children were observed to have a huge [10.77x increased likelihood of severe cavities](https://pubmed.ncbi.nlm.nih.gov/26838146/) compared to a control group, and [iron has been repeatedly shown to impact enamel strength directly](https://pmc.ncbi.nlm.nih.gov/articles/PMC3723110/).
 
-#### Iron
+#### Phytic Acid Conclusion
 
-https://pubmed.ncbi.nlm.nih.gov/8179508/
-
-Protein intake: https://pmc.ncbi.nlm.nih.gov/articles/PMC9653899/
-Salt rinse: https://pubmed.ncbi.nlm.nih.gov/28914244/
-Metabolic syndrome and tooth decay: https://pubmed.ncbi.nlm.nih.gov/25716056/
-Disease and salivary flow: https://pmc.ncbi.nlm.nih.gov/articles/PMC8461045/
-Oxalates: https://pubmed.ncbi.nlm.nih.gov/3681480/
+Phytic acid is an underreported detriment to dental health; It binds to zinc and iron in quantities that are impactful on enamel. Vegetarians are a useful proxy in research to represent people consuming a high-PA diet, and have been shown to have higher levels of tooth decay than omnivores, even in cases when their overall health is better. That means anyone who consumes an abundance of grains, nuts, seeds, and legumes needs to be wary. They should take extra care of dental hygiene, supplement when needed, and prepare relevant plant foods to reduce their PA content via techniques like soaking, sprouting, fermentation, and cooking. The simplest approach is shifting the diet to favor animal foods more, reducing the need for tedious micromanagement.
 
 ### Part 3: Useful Tricks
 
+#### Technology
+
+The year is 2026, and yet most people still brush and floss like it's 2026 BC. The study results on electric toothbrushes are neutral to positive; some show a positive effect on plaque removal while others show no benefit. Even so, electric brushes are easier to use and reduce the possibility of incorrect technique. Even more impactful is water flossing: [research consistently supports water flossing in favor of string flossing](https://pubmed.ncbi.nlm.nih.gov/24282867/), and it's also easier.
+
+#### Honey
+
+Eating honey is much better for teeth than eating table sugar. How is that possible when honey is almost pure sugar? Remember, the sugar itself is not what damages teeth. Instead, sugar feeds oral bacteria that produce acid, and the acid is what causes the damage. Because honey is antibacterial, [it helps fight acid-producing bacteria that cause cavities](https://pubmed.ncbi.nlm.nih.gov/30929799/). Luckily, honey is non-perishable, so finding good-quality honey is easy, whether locally or online. I have personally consumed large amounts of honey for months at a time with no detriment to my teeth, so believing the research is easy for me.
+
+#### Chewing
+
+Modern foods generally tend to be much softer than traditional ones, reducing the amount of chewing required. Besides helping the jaw develop normally, chewing also increases saliva production, helping to protect teeth. That's why [chewing sugar-free gum can help prevent decay](https://pubmed.ncbi.nlm.nih.gov/9818584/), [even moreso with xylitol gum](poop) but choosing real foods that require significant chewing like roast beef, firm fruits, and fibrous vegetables will have a similar effect.
+
 Automated brushing/flossing, honey vs sugar, chewing gum, salt rinse
+
+Salt rinse: https://pubmed.ncbi.nlm.nih.gov/28914244/
