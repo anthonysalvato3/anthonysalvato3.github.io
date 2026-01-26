@@ -28,7 +28,7 @@ A long list of medications can cause dry mouth as a side effect, making teeth mo
 
 #### Vegetarians Have More Tooth Decay
 
-This is very interesting: [here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is you're not actually comparing vegetarians with meat-eaters; you're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, suggesting socioeconomic advantages. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about this lifestyle pattern, or closely-related ones, that might promote tooth decay. I did the research and came up with a plausible reason: phytic acid. Get ready to learn.
+This is very interesting: [Here is a simple observational study](https://pubmed.ncbi.nlm.nih.gov/23714722/) comparing the dental health of vegetarians and non-vegetarians. On one hand, the vegetarians had better gum health than the non-vegetarians, but the typical flaw in vegetarian versus non-vegetarian studies is we're not actually comparing vegetarians with meat-eaters; we're comparing people who are selective with their diet and lifestyle with people who are not. The vegetarians in this study were also more educated, suggesting socioeconomic advantages. Yet despite these advantages, and better gum health, the vegetarian group still had significantly more tooth decay and erosion. How is that possible? The goal is not to pick on vegetarians specifically, but to ask what it is about this lifestyle pattern, or closely-related ones, that might promote tooth decay. I did the research and came up with a plausible reason: phytic acid. Get ready to learn.
 
 > **Phytic acid in human diets is a likely reason why vegetarians have more tooth decay than omnivores.**
 
@@ -37,6 +37,8 @@ This is very interesting: [here is a simple observational study](https://pubmed.
 For decades, dietary trends have promoted using grains, nuts, seeds, and legumes as the primary foundation of a diverse and healthy human diet. As a funny side note, these foods are all different types of seeds, so what looks diverse on the surface is not really diverse at all. But what's important to know is that many of these foods contain **phytic acid (PA)**, an [antinutrient](https://en.wikipedia.org/wiki/Antinutrient) that reduces the absorption of dietary minerals like zinc, calcium, magnesium, and iron; all of which are critical for strong teeth. Antinutrients make sense biologically to help plants avoid unwanted predation, and they are an oft-overlooked component of nutritional planning. So we want to pay attention to the conventional health enthusiasts who are consuming large quantities of these foods every day, while at the same time limiting nutrient-rich foods like meat, eggs, and fish because of pop culture headlines. Societies in the distant past [discovered brilliant preparation methods to lower antinutrients from these foods](https://pubmed.ncbi.nlm.nih.gov/17374686/), but those processes are rarely used in basic modern cooking. So here's what we want to figure out: are antinutrients strong enough to meaningfully impact mineral levels in the human body and cause problems?
 
 [This Oxford-published article](https://academic.oup.com/ijfst/article/37/7/727/7913066) analyzes the impact of PA on the absorption of different dietary minerals. I'll summarize the analysis of these minerals one by one, while also presenting additional evidence.
+
+> **Many modern foods are high in phytic acid, and the traditional ways of preparing them are rarely used in basic cooking.**
 
 #### Phytic Acid and Calcium
 
@@ -78,8 +80,18 @@ Eating honey is much better for teeth than eating table sugar. How is that possi
 
 #### Chewing
 
-Modern foods generally tend to be much softer than traditional ones, reducing the amount of chewing required. Besides helping the jaw develop normally, chewing also increases saliva production, helping to protect teeth. That's why [chewing sugar-free gum can help prevent decay](https://pubmed.ncbi.nlm.nih.gov/9818584/), [even moreso with xylitol gum](poop) but choosing real foods that require significant chewing like roast beef, firm fruits, and fibrous vegetables will have a similar effect.
+Modern foods generally tend to be much softer than traditional ones, reducing the amount of chewing required. Besides helping the jaw develop normally, chewing also increases saliva production, helping to protect teeth. That's why [chewing sugar-free gum can help prevent decay](https://pubmed.ncbi.nlm.nih.gov/9818584/), [even moreso when xylitol gum is used](https://pmc.ncbi.nlm.nih.gov/articles/PMC4232036/). Choosing real foods that require heavy chewing like roast beef, firm fruits, and fibrous vegetables is also a good strategy for people like me who don't want to start a gum-chewing habit.
 
-Automated brushing/flossing, honey vs sugar, chewing gum, salt rinse
+#### Saltwater Rinses
 
-Salt rinse: https://pubmed.ncbi.nlm.nih.gov/28914244/
+Rinsing with saltwater after meals might have a mildly positive effect. Research is mixed, but it might offer mild protection against cavity-causing bacteria, while also dislodging food particles. I asked my dentist and he said it's a good idea, and at the very least, it's easy and harmless. I like to rinse with saltwater when possible after consuming carbohydrates, whether it's from fruit or, less commonly for me, starch.
+
+### Part 4: Personal Habits and Conclusion
+
+#### What I Do
+
+My teeth have not always been perfect, especially back when I was eating a diet heavy in junk food and taking prescription stimulants. Back then, I brushed my teeth twice every day and flossed every day, but still frequently got cavities. I thought I simply had bad genetics, and the dentist didn't offer any real advice besides brush and floss better. Once I improved my health, so did my teeth. Nowadays, I focus on a nutritious diet centered around animal foods, complemented with carbohydrates usually coming from fruit and honey. I prefer chewier cuts of meat for the lower cost, but the increased chewing comes as an added bonus for enamel protection. My consumption of phytic acid is very low because I eat grains, seeds, nuts, and legumes infrequently. I use an electric toothbrush once per day in the evening (I know twice is recommended) prefaced by the use of a water flosser. This protocol has helped keep me cavity-free for a long time now, and my twice-yearly professional dental cleanings are easy because my plaque buildup is low. My eating strategy isn't specifically designed to reduce cavities, but I didn't understand why my teeth were staying strong, and doing the research for this article has provided sensible answers. I'm sharing my own protocol not to declare everyone needs to do the exact same thing, but to help readers understand how the principles I have outlined in the research apply to real life.
+
+#### Conclusion
+
+(poop)
