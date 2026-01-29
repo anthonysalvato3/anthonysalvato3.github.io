@@ -96,7 +96,7 @@ Eating honey is much better for teeth than eating table sugar. How is that possi
 
 #### Chewing
 
-Modern foods generally tend to be much softer than traditional ones, reducing the amount of chewing required. Besides helping the jaw develop normally, chewing also increases saliva production, helping to protect teeth. That's why [chewing sugar-free gum can help prevent decay](https://pubmed.ncbi.nlm.nih.gov/9818584/), [even moreso when xylitol gum is used](https://pmc.ncbi.nlm.nih.gov/articles/PMC4232036/). Choosing real foods that require heavy chewing like roast beef, firm fruits, and fibrous vegetables is also a good strategy for people like me who don't want to start a gum-chewing habit.
+Modern foods generally tend to be much softer than traditional ones, reducing the amount of chewing required. Besides helping the jaw develop normally, chewing also increases saliva production, helping to protect teeth. That's why [chewing sugar-free gum can help prevent decay](https://pubmed.ncbi.nlm.nih.gov/9818584/), [even more so when xylitol gum is used](https://pmc.ncbi.nlm.nih.gov/articles/PMC4232036/). Choosing real foods that require heavy chewing like roast beef, firm fruits, and fibrous vegetables is also a good strategy for people like me who don't want to start a gum-chewing habit.
 
 #### Saltwater Rinses
 
