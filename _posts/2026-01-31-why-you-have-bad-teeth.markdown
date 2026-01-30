@@ -3,7 +3,7 @@ layout: single
 title: "Why You Have Bad Teeth"
 date: "2026-01-31"
 permalink: "/why-you-have-bad-teeth/"
-excerpt: "Here are some lesser-known science-driven actions to prevent tooth decay."
+excerpt: "Lesser-known science-driven actions to prevent tooth decay."
 header:
   teaser: "/assets/images/thumbnails/bad-teeth.png"
 ---
