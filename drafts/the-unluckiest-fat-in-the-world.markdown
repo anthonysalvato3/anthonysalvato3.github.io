@@ -1,0 +1,15 @@
+Nutrition is pretty basic. You have three main types of fats: monounsaturated, polyunsaturated and saturated. The first two are good, and the last one is bad. It's true because everyone says so, and there's no need to look at research, or even using basic reasoning, to determine otherwise. At least, that is the assumption most of the population operates on, including the most prestigious of nutrition professionals. The assumption is so ingrained that individuals and institutions are inventing their own facts. Reading a typical online source from a [university](https://publichealth.jhu.edu/2025/what-are-ultra-processed-foods), doctor, or dietician offers a large likelihood that one major reason junk food is so bad for us is because of saturated fat. Consider this quote from the article I just linked above:
+
+> _Because ultra-processed foods are typically high in saturated fat, sodium, and sugar, and lower in water and fiber content, they are also more calorie-dense per gram (approximately 378 calories per 100 grams) compared to whole foods like fruits and vegetables (around 68 calories per 100 grams)._
+
+Other than the questionable metric of deciding the healthfulness of a food by measuring calories per gram, quotes like these propagate a major error that is easily refutable by anyone who has at least one functioning eye. Below are the nutrition facts for a bag of Lay's Classic Potato Chips (not sponsored):
+
+<figure>
+    <img src="/assets/images/saturated/lays-nutrition.png" 
+        alt="Lay's Classic Potato Chips Nutrition Facts">
+    <figcaption>Lay's Classic Potato Chips Nutrition Facts</a></figcaption>
+</figure>
+
+The USDA has recommended keeping saturated fat consumption to less than 10% of calories per day since 1990. The funny thing is that you can eat potato chips for your entire daily allotment of calories and still fall well short of the USDA's strict guideline. That is not "high" in saturated fat by any stretch of the imagination, and nearly all other junk foods use the same types of oils, making this example decidedly not a unique one. If nutrition professionals are ignoring the information that is right in front of them, imagine the treasure trove of research they could be ignoring behind the scenes. That's what I'm here to offer today, so that you can be smarter than anyone with a fancy title who is trying to tell you how to eat.
+
+One huge problem with saturated fat is its binding to something called [Toll-like receptor 4 (TLR4)](https://en.wikipedia.org/wiki/Toll-like_receptor_4), an inflammatory response activator. Inflammation usually indicates one of two things: cellular damage or defense against pathogens, and in this case [TLR4's inflammatory signaling is strongly tied to metabolic diseases](https://pubmed.ncbi.nlm.nih.gov/24815961/). That's why research papers so often reference saturated fat's harmful effects on whatever they're talking about by citing it as an inflammatory trigger. Which is probably also why [This link here](https://pubmed.ncbi.nlm.nih.gov/29681442/) is a bombshell paper from 2018, published in the prestigious Cell Metabolism journal and garnering hundreds of citations.
