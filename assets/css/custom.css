@@ -13,3 +13,11 @@
 blockquote {
   font-style: normal;
 }
+
+.site-title {
+  background-color: #ff8c00;
+  color: #000 !important;
+  padding: 0.3em 0.6em;
+  border-radius: 0.4em;
+  font-weight: bold;
+}

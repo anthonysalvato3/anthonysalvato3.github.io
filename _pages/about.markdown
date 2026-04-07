@@ -14,6 +14,6 @@ permalink: /about/
   <img src="{{ 'assets/images/anthony.jpg' | relative_url }}" alt="Anthony" style="width: 250px; margin-right: 20px; ">
   <div>
     <h3>Hi, I'm Anthony.</h3>
-    <body>I'm here to write about my findings from researching health and nutrition.</body>
+    <body>I'm here to deliver you my cutting-edge findings from nutrition research.</body>
   </div>
 </div>
