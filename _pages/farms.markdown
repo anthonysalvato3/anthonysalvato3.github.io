@@ -10,15 +10,24 @@ meta: {}
 permalink: /farms/
 ---
 
-<div style="position: relative; width: 100%; padding-bottom: 100%; max-height: 80vh;">
-  <iframe
-    src="https://www.google.com/maps/d/u/0/embed?mid=1sEtufBsicCwZVucez3fAHTdsGumzAy4&ll=39.8283%2C-98.5795&z=4"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    allowfullscreen
-    loading="lazy">
-  </iframe>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+<link rel="stylesheet" href="/assets/css/farms-map.css" />
+
+<div id="farms-search">
+  <input type="text" id="zip-input" placeholder="Enter zip code" maxlength="5" inputmode="numeric" />
+  <button id="zip-search-btn">Find farms within 100 miles</button>
+  <button id="zip-clear-btn" style="display:none;">Show all farms</button>
+  <span id="zip-status"></span>
 </div>
+
+<div id="farms-map"></div>
 
 ![Map legend](/assets/images/farms/legend.webp)
 
 <div style="text-align: center">Map provided by <a href="https://myhealthforward.com" target="_blank" rel="noopener noreferrer">myhealthforward.com</a></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="/assets/js/farms-map.js"></script>
