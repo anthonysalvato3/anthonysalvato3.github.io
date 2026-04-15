@@ -1,13 +1,15 @@
 main:
   - title: "Blog"
     url: /
+  - title: "Videos"
+    url: /videos/
   - title: "Local Farms"
     url: /farms
   - title: "Subscribe"
     url: /#subscribe
   - title: "Contact"
     url: /contact
-  - title: "Food Guide"
-    url: /food-guide/
+  # - title: "Food Guide"
+  #   url: /food-guide/
   - title: "About"
     url: /about/
