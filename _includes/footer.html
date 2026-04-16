@@ -299,9 +299,17 @@
     document.querySelectorAll('a[href$="#subscribe"]').forEach(function(link) {
       link.addEventListener('click', function(e) {
         var target = document.getElementById('subscribe');
+        var emailInput = document.getElementById('EMAIL');
         if (target) {
           e.preventDefault();
-          target.scrollIntoView({ behavior: 'smooth' });
+          if (emailInput) {
+            emailInput.style.transition = 'box-shadow 0.3s';
+            emailInput.style.boxShadow = '0 0 0 3px #ff8c00';
+            emailInput.focus();
+            setTimeout(function() {
+              emailInput.style.boxShadow = '';
+            }, 2000);
+          }
         }
       });
     });
