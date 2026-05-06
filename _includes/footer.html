@@ -302,6 +302,12 @@
         var emailInput = document.getElementById('EMAIL');
         if (target) {
           e.preventDefault();
+          var hiddenLinks = document.querySelector('.hidden-links');
+          var toggle = document.querySelector('.greedy-nav__toggle');
+          if (hiddenLinks && !hiddenLinks.classList.contains('hidden')) {
+            hiddenLinks.classList.add('hidden');
+            toggle.classList.add('hidden');
+          }
           if (emailInput) {
             emailInput.style.transition = 'box-shadow 0.3s';
             emailInput.style.boxShadow = '0 0 0 3px #ff8c00';
