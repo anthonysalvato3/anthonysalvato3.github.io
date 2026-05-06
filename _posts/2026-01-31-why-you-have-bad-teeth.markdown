@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Why You Have Bad Teeth"
+toc: true
+toc_label: "Table of Contents"
 date: "2026-01-31"
 permalink: "/why-you-have-bad-teeth/"
 excerpt: "Lesser-known science-driven actions to prevent tooth decay."
