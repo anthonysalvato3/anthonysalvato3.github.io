@@ -22,7 +22,7 @@ You already know the common dietary factors impacting oral health: sugary, starc
 
 Saliva is a protective agent against foods that typically erode teeth, working preventatively to buffer against acids and remedially to remineralize enamel once damaged. It's a defensive measure we tend to ignore because it's not usually considered to be something we can control. On the contrary, as you'll see below, it very much is.
 
-> **Besides well-known food and hygiene practices, saliva is important**
+> **Besides well-known food and hygiene practices, saliva is important.**
 
 #### Metabolism
 
