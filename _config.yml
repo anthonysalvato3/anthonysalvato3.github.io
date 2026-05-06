@@ -29,7 +29,11 @@ permalink: pretty
 # github_username: jekyll
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
