@@ -22,12 +22,36 @@ Culturally, we usually think of fat storage as a bad thing, and fat burning as a
 
 SAT acts as benign energy storage and endocrine signaler. It's surface level and distributed fairly evenly around the body, with the exact distribution varying a bit between people. VAT, on the other hand, is fat stored directly around internal organs and is related to a number of negative health effects.
 
-> **Subcutaneous adipose tissue (SAT) is benign fat at the surface. Visceral adipose tissue (VAT) is problematic fat around internal organs.**
+> **Subcutaneous adipose tissue (SAT) is benign fat at the surface. Visceral adipose tissue (VAT) is fat around internal organs, and is correlated with negative health effects.**
 
 
 #### Health Effects of Visceral Adipose Tissue
 
+An important question to ask about VAT: does it cause problems on its own, or is it simply a marker that is correlated with other problematic outcomes? [This paper](https://pubmed.ncbi.nlm.nih.gov/19706383/) by Fabbrini, et al. argues that a causal relationship between VAT and metabolic disease has never been demonstrated, and follows with a decisive experiment. The experiment introduces another marker **Intrahepatic triglyceride (IHTG)** content, which is fat that accumulates inside liver cells. Two groups of 20 obese subjects were studied as follows:
 
+Group 1: 20 obese subjects with similar VAT and varying IHTG.
+Group 2: 20 obese subjects with varying VAT and similar IHTG.
+
+Variance of specific metabolic markers shown below were measured in each group. If VAT was causing metabolic disease, we would expect group 2 to show high variance of measurements. If IHTG was causing metabolic disease, we would expect group 1 to show high variance of measurements. Finally, if both VAT and IHTG were causal, we would expect both groups to show variance of measurements within the same group. The measurements:
+
+Group 1, high-IHTG:
+
+* Hepatic insulin sensitivity 41% lower (p<0.01)
+* Skeletal muscle insulin sensitivity 36% lower
+* Adipose tissue insulin sensitivity 13% lower
+* VLDL-TG secretion rate nearly doubled (23 vs 12 μmol/min, p<0.001)
+* Plasma insulin nearly doubled
+* Adiponectin 50% lower
+
+Group 2, high-VAT:
+
+* No difference in hepatic insulin sensitivity
+* No difference in muscle insulin sensitivity
+* No difference in adipose insulin sensitivity
+* No difference in VLDL-TG secretion rate
+* No difference in any plasma metabolic variable
+
+These results are both decisive and surprising! VAT is commonly thought to be problematic when here, it appears to be benign. It's also a good demonstration how a quick internet search can be wildly misleading from what actual research shows. On the other hand, practically speaking, VAT should be not be ignored. While it's not causal on its own, it still often correlates strongly with IHTG levels, despite the subjects of the above study showing exceptions to that correlation.
 
 Recently I attended a convention and had the pleasure of listening to a presentation by Dr. Nadir Ali, a board certified interventional cardiologist who has practiced for more than 30 years. The convention was centered around low carb lifestyle, and while presentations by many of the other convention speakers were more simplified or speculative, Dr. Ali's was focused on mechanistic science.
 
