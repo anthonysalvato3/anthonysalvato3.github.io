@@ -27,7 +27,7 @@ SAT acts as benign energy storage and endocrine signaler. It's surface level and
 
 #### Health Effects of Visceral Adipose Tissue
 
-An important question to ask about VAT: does it cause problems on its own, or is it simply a marker that is correlated with other problematic outcomes? [This paper](https://pubmed.ncbi.nlm.nih.gov/19706383/) by Fabbrini, et al. argues that a causal relationship between VAT and metabolic disease has never been demonstrated, and follows with a decisive experiment. The experiment introduces another independent variable, **Intrahepatic triglyceride (IHTG)** content, which is fat that accumulates inside liver cells. Two groups of 20 obese subjects were studied as follows:
+An important question to ask about VAT: does it cause problems on its own, or is it simply a marker that is correlated with other problematic outcomes? [This paper](https://pubmed.ncbi.nlm.nih.gov/19706383/) by Fabbrini, et al. argues that a causal relationship between VAT and metabolic disease has never been demonstrated, and follows with a decisive experiment. The experiment introduces another independent variable, **intrahepatic triglyceride (IHTG)** content, which is fat that accumulates inside liver cells. Two groups of 20 obese subjects were studied as follows:
 
 Group 1: 20 obese subjects with similar VAT and varying IHTG.
 Group 2: 20 obese subjects with varying VAT and similar IHTG.
