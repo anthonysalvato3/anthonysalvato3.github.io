@@ -32,7 +32,7 @@ An important question to ask about VAT: does it cause problems on its own, or is
 Group 1: 20 obese subjects with similar VAT and varying IHTG.
 Group 2: 20 obese subjects with varying VAT and similar IHTG.
 
-Variance of specific metabolic markers shown below were measured in each group. If VAT was causing metabolic disease, we would expect group 2 to show high variance of measurements. If IHTG was causing metabolic disease, we would expect group 1 to show high variance of measurements. Finally, if both VAT and IHTG were causal, we would expect both groups to show variance of measurements within the same group. The measurements:
+Variance of specific metabolic markers shown below were measured in each group. If VAT was causing metabolic disease, we would expect group 2 to show high variance of measurements. If IHTG was causing metabolic disease, we would expect group 1 to show high variance of measurements. Finally, if both VAT and IHTG were causal, we would expect both groups to show variance of measurements within their respective group. The measurements:
 
 Group 1, high-IHTG:
 
