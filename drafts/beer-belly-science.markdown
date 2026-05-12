@@ -36,10 +36,10 @@ Variance of specific metabolic markers shown below were measured in each group. 
 
 Group 1, high-IHTG:
 
-* Hepatic insulin sensitivity 41% lower (p<0.01)
+* Hepatic insulin sensitivity 41% lower
 * Skeletal muscle insulin sensitivity 36% lower
 * Adipose tissue insulin sensitivity 13% lower
-* VLDL-TG secretion rate nearly doubled (23 vs 12 μmol/min, p<0.001)
+* VLDL-TG secretion rate nearly doubled
 * Plasma insulin nearly doubled
 * Adiponectin 50% lower
 
