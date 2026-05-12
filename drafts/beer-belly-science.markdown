@@ -52,11 +52,13 @@ Group 2, high-VAT:
 * No difference in VLDL-TG secretion rate
 * No difference in any plasma metabolic variable
 
-These results are both decisive and surprising! VAT is commonly thought to be problematic when here, it appears to be benign. It's also a good demonstration how a quick internet search can be wildly misleading from what actual research shows. On the other hand, practically speaking, VAT should be not be ignored. While it's not causal on its own, it still often correlates strongly with IHTG levels, despite the subjects of the above study showing exceptions to that correlation. For example, [this paper](https://pubmed.ncbi.nlm.nih.gov/17478441/) illustrates population findings that VAT is correlated with liver fat content, but SAT is not. Later, we'll examine why VAT and IHTG are often, but not always correlated.
+These results are both decisive and surprising! VAT is commonly thought to be problematic when here, it appears to be benign. It's also a good demonstration how a quick internet search can be wildly misleading from what actual research shows. On the other hand, practically speaking, VAT should be not be ignored. While it's not causal on its own, it still often correlates strongly with IHTG levels, despite the subjects of the above study showing exceptions to that correlation. For example, [this paper](https://pubmed.ncbi.nlm.nih.gov/17478441/) illustrates population findings that VAT is correlated with liver fat content, but SAT is not. Later, we'll examine the mechanistic details of this correlation.
+
+> **VAT has not been shown to cause disease directly, but it is often correlated with intrahepatic triglyceride (IHTG) content, which has been shown to be causal.**
 
 #### Genetic Differences in VAT Accumulation
 
-Different populations tend to show different fat accumulation patterns at similar body mass index levels. [This paper](https://pubmed.ncbi.nlm.nih.gov/17510078/) points out that South Asians tend to develop central obesity (from VAT) more easily than Caucasians, for example. The authors propose a hypothesis based on this pattern: VAT develops when SAT capacity is exhausted, and the reason South Asians accumulate VAT easily is because their SAT capacity is genetically low. Therefore, the reason South Asians develop metabolic complications at lower total fat mass than Caucasians do is because those complications arise when SAT capacity is exhausted.
+Different populations tend to show different fat accumulation patterns at similar body mass index levels. [This paper](https://pubmed.ncbi.nlm.nih.gov/17510078/) points out that South Asians tend to develop central obesity (from VAT) more easily than Caucasians, for example. The authors propose a hypothesis based on this pattern: VAT develops when SAT capacity is exhausted, and the reason South Asians accumulate VAT easily is because their SAT capacity is genetically low. Therefore, according to this reasoning, the reason South Asians generally develop metabolic complications at lower total fat mass than Caucasians do is because those complications arise when SAT capacity is exhausted.
 
 
 
