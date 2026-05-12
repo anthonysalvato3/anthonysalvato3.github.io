@@ -10,7 +10,7 @@ What used to be a telltale sign of middle age in the developed world has become 
 
 ### Part 1: What Is a Beer Belly?
 
-#### A Different Type of Fat
+#### Different Types of Fat
 
 Culturally, we usually think of fat storage as a bad thing, and fat burning as a good thing. In reality, body fat, or adipose tissue, is important because our cells use it for energy when immediate energy from food isn't available. Adipose tissue manifests itself in different ways: by cell type and by location. First, cell types: different fat cell types include white, brown, and beige. White adipose tissue compromises the majority and serves as the energy storage depot we typically think of. The other colors are interesting in their own ways, but not relevant for what we're looking at. Second, location: fat can be classified by location as **subcutaneous adipose tissue (SAT)** or **visceral adipose tissue (VAT).**
 
@@ -24,8 +24,9 @@ SAT acts as benign energy storage and endocrine signaler. It's surface level and
 
 > **Subcutaneous adipose tissue (SAT) is benign fat at the surface. Visceral adipose tissue (VAT) is fat around internal organs, and is correlated with negative health effects.**
 
+### Part 2: Visceral Adipose Tissue Study Outcomes
 
-#### Health Effects of Visceral Adipose Tissue
+#### Health Effects of VAT
 
 An important question to ask about VAT: does it cause problems on its own, or is it simply a marker that is correlated with other problematic outcomes? [This paper](https://pubmed.ncbi.nlm.nih.gov/19706383/) by Fabbrini, et al. argues that a causal relationship between VAT and metabolic disease has never been demonstrated, and follows with a decisive experiment. The experiment introduces another independent variable, **intrahepatic triglyceride (IHTG)** content, which is fat that accumulates inside liver cells. Two groups of 20 obese subjects were studied as follows:
 
@@ -51,7 +52,13 @@ Group 2, high-VAT:
 * No difference in VLDL-TG secretion rate
 * No difference in any plasma metabolic variable
 
-These results are both decisive and surprising! VAT is commonly thought to be problematic when here, it appears to be benign. It's also a good demonstration how a quick internet search can be wildly misleading from what actual research shows. On the other hand, practically speaking, VAT should be not be ignored. While it's not causal on its own, it still often correlates strongly with IHTG levels, despite the subjects of the above study showing exceptions to that correlation.
+These results are both decisive and surprising! VAT is commonly thought to be problematic when here, it appears to be benign. It's also a good demonstration how a quick internet search can be wildly misleading from what actual research shows. On the other hand, practically speaking, VAT should be not be ignored. While it's not causal on its own, it still often correlates strongly with IHTG levels, despite the subjects of the above study showing exceptions to that correlation. For example, [this paper](https://pubmed.ncbi.nlm.nih.gov/17478441/) illustrates population findings that VAT is correlated with liver fat content, but SAT is not. Later, we'll examine why VAT and IHTG are often, but not always correlated.
+
+#### Genetic Differences in VAT Accumulation
+
+Different populations tend to show different fat accumulation patterns at similar body mass index levels. [This paper](https://pubmed.ncbi.nlm.nih.gov/17510078/) points out that South Asians tend to develop central obesity (from VAT) more easily than Caucasians, for example. The authors propose a hypothesis based on this pattern: VAT develops when SAT capacity is exhausted, and the reason South Asians accumulate VAT easily is because their SAT capacity is genetically low. Therefore, the reason South Asians develop metabolic complications at lower total fat mass than Caucasians do is because those complications arise when SAT capacity is exhausted.
+
+
 
 Recently I attended a convention and had the pleasure of listening to a presentation by Dr. Nadir Ali, a board certified interventional cardiologist who has practiced for more than 30 years. The convention was centered around low carb lifestyle, and while presentations by many of the other convention speakers were more simplified or speculative, Dr. Ali's was focused on mechanistic science.
 
