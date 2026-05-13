@@ -58,7 +58,7 @@ These results are both decisive and surprising! VAT is commonly thought to be pr
 
 #### Genetic Differences in VAT Accumulation
 
-Different populations tend to show different fat accumulation patterns at similar body mass index levels. [This 2007 paper](https://pubmed.ncbi.nlm.nih.gov/17510078/) points out that South Asians tend to develop central obesity (from VAT) more easily than Caucasians, for example. The authors propose a hypothesis based on this pattern: VAT develops when SAT expansion capacity is exhausted, and the reason South Asians accumulate VAT easily is because their SAT expansion is genetically low. Therefore, according to this reasoning, the reason South Asians generally develop metabolic complications at lower total fat mass than Caucasians do is because those complications arise when SAT expansion is exhausted.
+Different populations tend to show different fat accumulation patterns at similar body mass index levels. [This 2007 paper](https://pubmed.ncbi.nlm.nih.gov/17510078/) points out that South Asians tend to develop central obesity (from VAT) more easily than Caucasians, for example. The authors propose a hypothesis based on this pattern: VAT develops when SAT expansion capacity is exhausted, and the reason South Asians accumulate VAT easily is because their SAT expansion is genetically low. Therefore, according to this reasoning, South Asians generally develop metabolic complications at lower total fat mass than Caucasians do because those complications arise when SAT expansion is exhausted.
 
 > **One hypothesis: Genetic SAT storage capacity is exhausted, then fat gets stored in VAT and organs.**
 
