@@ -74,6 +74,22 @@ After SAT capacity exhaustion, we would expect VAT and organ fat continuing to i
 
 #### Fitting the Existing Observations
 
+Here are the important observations we have made so far:
+
+1. VAT is not problematic on its own, but is correlated with IHTG, which promotes metabolic dysfunction
+2. VAT can accumulate regardless of overall obesity level
+3. SAT expansion ability is partially based on genetics, but it's more of a sensitivity than a hard stop
+
+And here are the remaining important questions to answer:
+
+1. Why, from a functional standpoint, does the human body accumulate VAT in the first place?
+2. How do we reduce VAT accumulation?
+3. What explains the correlation between VAT and IHTG?
+
+The main problem with the existing hypotheses about VAT accumulation is that they're based around the long-standing assumption that disease occurs from eating too much. Essentially, they state that we have some SAT capacity, and eating too much exceeds that capacity, then the fat goes to bad places for some reason. According to conventional ideology, we must maintain a monk-like dedication of ignoring our appetites, while using goofy psychology tricks like filling our stomachs with fiber and eating with smaller plates.
+
 #### A Hormonal Signaling Story
+
+First let's look at how obesity and related metabolic diseases develop in general.
 
 #### How to Get Rid of VAT
