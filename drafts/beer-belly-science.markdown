@@ -68,8 +68,6 @@ After SAT capacity exhaustion, we would expect VAT and organ fat continuing to i
 
 > **Based on the data, a hard stop on SAT accumulation doesn't make sense.**
 
-(AI SLOP) SAT isn't full; it's failing to take up fatty acids efficiently while muscle and liver take up more. This is an active redistribution mediated by tissue-specific changes in CD36 expression, correlated with circulating insulin. The phenomenon looks like a capacity problem but behaves like a signaling problem. The variant alleles identified by Lotta et al. are real, but what they likely affect is adipocyte signaling competence — how well preadipocytes differentiate, how well mature adipocytes respond to nutrient cues — not a fixed storage ceiling. PPARγ agonists demonstrate that this signaling competence is pharmacologically modifiable within an individual's lifetime. This reframes the question from 'how do we expand fixed storage capacity?' to 'what's driving the signaling failure that redirects fatty acids away from SAT and toward ectopic sites?' That question points upstream to leptin signaling, hyperinsulinemia, and the HPA axis."
-
 ### Part 3: VAT as a Signaling Problem
 
 #### Fitting the Existing Observations
@@ -90,6 +88,16 @@ The main problem with the existing hypotheses about VAT accumulation is that the
 
 #### A Hormonal Signaling Story
 
-First let's look at how obesity and related metabolic diseases develop in general.
+First let's look at how obesity and related metabolic diseases develop in general. Once upon a time, [Thaler, et al.](https://pubmed.ncbi.nlm.nih.gov/22201683/) observed something striking: nutrient-poor diets cause injury in a region of the brain called the **arcuate nucleus (ARC)** before any symptoms of obesity occur. The ARC is a region within the hypothalamus that regulates energy balance; it handles many of the metabolic processes that ebb and flow based on bodily energy status at any given time. It seemed that somehow, the injury of ARC neurons was causing them to weaken their satiety signaling, triggering the need to eat, even in the presence of an energy-rich diet.
+
+[Later research revealed why this happens](https://pubmed.ncbi.nlm.nih.gov/24074867/); Not because unhealthy diets taste too good, or because calories are evil, but because **endoplasmic reticulum (ER)** stress in ARC neurons is causing the satiety signal from the hormone **leptin** to be blunted. Normally, fat cells send leptin to the brain, and more fat cells means more leptin, which means more satiety. That means in a healthy person, gaining fat should reduce their appetite on average, while losing fat increases appetite, allowing weight to stay in reasonable range. But when leptin signaling is blunted, satiety is not properly communicated, and appetite stays high even at increased fat mass. In other words, energy intake in the abscence of proper nutrient protection are causing ER stress, which then decouples actual and perceived energy status, causing inappropriate low-energy adaptations (like increased appetite) in high-energy humans.
+
+#### How This Relates to VAT
+
+Increased appetite is only one example of an adaptation to a low-energy state. There are lots of other adaptations that occur when energy is insufficient. One such example is resistance to the hormone **insulin** in muscle cells. The reason is that insulin drives glucose into cells for energy. If energy is scarce, non-essential tissue like muscle becomes resistant to insulin so that glucose can stay in the blood, otherwise glucose would drop too low and the brain wouldn't receive enough fuel. If energy is abundant, but the brain perceives energy as scarce, insulin resistance occurs despite abundant blood glucose, forcing more insulin release to keep blood sugar stable. That's the starting point of hyperinsulemia, hyperglycemia, and eventual diabetes, which is when fasting blood glucose is extremely high. It's not high for no reason, but because the brain is interpreting an extreme glucose shortage, and compensates by preserving blood glucose to an extreme degree.
+
+In that sense, we can think of VAT accumulation as yet another adaptation to a perceived low-energy state.
+
+(AI SLOP) SAT isn't full; it's failing to take up fatty acids efficiently while muscle and liver take up more. This is an active redistribution mediated by tissue-specific changes in CD36 expression, correlated with circulating insulin. The phenomenon looks like a capacity problem but behaves like a signaling problem. The variant alleles identified by Lotta et al. are real, but what they likely affect is adipocyte signaling competence — how well preadipocytes differentiate, how well mature adipocytes respond to nutrient cues — not a fixed storage ceiling. PPARγ agonists demonstrate that this signaling competence is pharmacologically modifiable within an individual's lifetime. This reframes the question from 'how do we expand fixed storage capacity?' to 'what's driving the signaling failure that redirects fatty acids away from SAT and toward ectopic sites?' That question points upstream to leptin signaling, hyperinsulinemia, and the HPA axis."
 
 #### How to Get Rid of VAT
