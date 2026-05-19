@@ -86,11 +86,11 @@ And here are the remaining important questions to answer:
 
 The main problem with the existing hypotheses about VAT accumulation is that they're based around the long-standing assumption that disease occurs from eating too much. Essentially, they state that we have some SAT capacity, and eating too much exceeds that capacity, then the fat goes to bad places for some reason. According to conventional ideology, we must maintain a monk-like dedication of ignoring our appetites, while using goofy psychology tricks like filling our stomachs with fiber and eating with smaller plates.
 
-#### A Hormonal Signaling Story
+#### A Hormonal Story
 
 First let's look at how obesity and related metabolic diseases develop in general. Once upon a time, [Thaler, et al.](https://pubmed.ncbi.nlm.nih.gov/22201683/) observed something striking: nutrient-poor diets cause injury in a region of the brain called the **arcuate nucleus (ARC)** before any symptoms of obesity occur. The ARC is a region within the hypothalamus that regulates energy balance; it handles many of the metabolic processes that ebb and flow based on bodily energy status at any given time. It seemed that somehow, the injury of ARC neurons was causing them to weaken their satiety signaling, triggering the need to eat, even in the presence of an energy-rich diet.
 
-[Later research revealed why this happens](https://pubmed.ncbi.nlm.nih.gov/24074867/); Not because unhealthy diets taste too good, or because calories are evil, but because **endoplasmic reticulum (ER)** stress in ARC neurons is causing the satiety signal from the hormone **leptin** to be blunted. Normally, fat cells send leptin to the brain, and more fat cells means more leptin, which means more satiety. That means in a healthy person, gaining fat should reduce their appetite on average, while losing fat increases appetite, allowing weight to stay in reasonable range. But when leptin signaling is blunted, satiety is not properly communicated, and appetite stays high even at increased fat mass. In other words, energy intake in the abscence of proper nutrient protection are causing ER stress, which then decouples actual and perceived energy status, causing inappropriate low-energy adaptations (like increased appetite) in high-energy humans.
+[Later research revealed why this happens](https://pubmed.ncbi.nlm.nih.gov/24074867/); Not because unhealthy diets taste too good, or because calories are evil, but because **endoplasmic reticulum (ER)** stress in ARC neurons is causing the satiety signal from the hormone **leptin** to be blunted. Normally, fat cells send leptin to the brain, and more fat cells means more leptin, which means more satiety. That means in a healthy person, gaining fat should reduce their appetite on average, while losing fat increases appetite, allowing weight to stay in reasonable range. But when leptin signaling is blunted, satiety is not properly communicated, and appetite stays high even at increased fat mass. In other words, energy intake in the abscence of proper nutrient protection are causing ER stress, which then decouples actual and perceived energy status, causing inappropriate low-energy adaptations (like increased appetite) despite high energy intake.
 
 #### VAT as a Stress Response
 
@@ -98,8 +98,27 @@ First let's look at how obesity and related metabolic diseases develop in genera
 
 How does this kind of metabolic stress lead to VAT accumulation? In 2001, [Masuzaki et al.](https://pubmed.ncbi.nlm.nih.gov/11739957/) discovered that genetically overexpressing a single enzyme in fat cells called 11β-HSD1 caused visceral obesity, fatty liver, insatiable hunger, insulin resistance, abnormal blood lipids, and high blood pressure, even on a normal diet! The reason is because 11β-HSD1 converts inactive cortisone into the active stress hormone **cortisol**, which builds up locally in fat cells. [Vincenatti et al.](https://pubmed.ncbi.nlm.nih.gov/25372731/) followed this up in a 2014 review, acknowledging the cross-talk between adipose tissue and the **hypothalamic-pituitary-adrenal (HPA) axis**, the body's primary neuroendocrine stress response system. So it seems that an overactive HPA axis causes excess cortisol to build up in SAT, then the stressed SAT talks back to the HPA axis, which then drives metabolic disease symptoms, including the accumulation of VAT.
 
-All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress? For the starving women, those bodily adaptations could have meant the difference between life and death in their anorexic state. The manifestations wouldn't be obvious because measurements like VAT, blood sugar, and blood pressure would be low in absolute terms. In _relative_ terms, however, a stress response would allow these critical biomarkers to be elevated enough from levels that would otherwise cause death. 
+All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress? For the starving women, those bodily adaptations could have meant the difference between life and death in their anorexic state. The manifestations wouldn't be obvious because measurements like VAT, blood sugar, and blood pressure would be low in absolute terms. In _relative_ terms, however, a stress response would allow these critical biomarkers to be elevated enough from levels that would otherwise cause death.
 
-The final piece of the stress response puzzle is (CONTINUE HERE)
+Remember from before that unhealthy diets cause ER stress in ARC neurons. Also clear from Vincenatti's review is that proper leptin signaling suppresses the HPA axis, which makes sense because leptin signaling indicates satiety and should reduce stress responses. So we can now construct a temporal sequence that makes a lot more sense for getting rid of VAT.
+
+##### The Traditional View
+
+1. Lose enough weight until VAT disappears
+2. If you can't lose weight, try harder to ignore hunger and use tricks like filling up on fiber
+3. If VAT persists even after weight loss, you have bad genetics
+
+##### The Hormonal View
+
+1. Nutrient-poor diets lead to ER stress in ARC neurons, causing resistance to leptin signaling
+2. HPA axis is chronically activated, creating a persistent stress signal
+3. The stress signal triggers metabolic adaptations to energy scarcity, including increased hunger, VAT accumulation, and much more
+
+### Part 4: VAT's Function and How to Reduce It
+
+#### The Portal Theory
+
+We have learned of VAT's accumulation under stressful conditions. But why does VAT accumulate in the first place? Why wouldn't the body just accumulate more SAT instead? The SAT capacity exhaustion theories don't effectively answer that question because they still don't explain why evolutionary selection would prefer having a second type of fat instead of simply more of the same type.
+
 
 #### How to Get Rid of VAT
