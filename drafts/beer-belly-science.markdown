@@ -120,5 +120,7 @@ Remember from before that unhealthy diets cause ER stress in ARC neurons. Also c
 
 We have learned of VAT's accumulation under stressful conditions. But why does VAT accumulate in the first place? Why wouldn't the body just accumulate more SAT instead? The SAT capacity exhaustion theories don't effectively answer that question because they still don't explain why evolutionary selection would prefer having a second type of fat instead of simply more of the same type.
 
+[DON'T FORGET TO LOOK AT THE VINCENATTI PAPER FOR HPA STUFF]
+
 
 #### How to Get Rid of VAT
