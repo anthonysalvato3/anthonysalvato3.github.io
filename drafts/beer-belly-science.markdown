@@ -100,7 +100,7 @@ How does this kind of metabolic stress lead to VAT accumulation? In 2001, [Masuz
 
 All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress? For the starving women, those bodily adaptations could have meant the difference between life and death in their anorexic state. The manifestations wouldn't be obvious because measurements like VAT, blood sugar, and blood pressure would be low in absolute terms. In _relative_ terms, however, a stress response would allow these critical biomarkers to be elevated enough from levels that would otherwise cause death.
 
-Remember from before that unhealthy diets cause ER stress in ARC neurons. Also clear from Vincenatti's review is that proper leptin signaling suppresses the HPA axis, which makes sense because leptin signaling indicates satiety and should reduce stress responses. So we can now construct a temporal sequence that makes a lot more sense for getting rid of VAT.
+Remember from before that unhealthy diets cause ER stress in ARC neurons. Also clear from [this 1997 paper](https://pubmed.ncbi.nlm.nih.gov/9275075/) is that proper leptin signaling suppresses the HPA axis, which makes sense because leptin signaling indicates energy sufficiency, and should therefore reduce stress responses that indicate an immediate energy need. So we can now construct a temporal sequence that makes a lot more sense for getting rid of VAT.
 
 ##### The Traditional View
 
@@ -120,7 +120,8 @@ Remember from before that unhealthy diets cause ER stress in ARC neurons. Also c
 
 We have learned of VAT's accumulation under stressful conditions. But why does VAT accumulate in the first place? Why wouldn't the body just accumulate more SAT instead? The SAT capacity exhaustion theories don't effectively answer that question because they still don't explain why evolutionary selection would prefer having a second type of fat instead of simply more of the same type.
 
-[DON'T FORGET TO LOOK AT THE VINCENATTI PAPER FOR HPA STUFF]
-
+https://pubmed.ncbi.nlm.nih.gov/15522994/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4076992/
+https://pubmed.ncbi.nlm.nih.gov/21873987/
 
 #### How to Get Rid of VAT
