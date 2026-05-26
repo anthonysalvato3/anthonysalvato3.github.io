@@ -116,9 +116,26 @@ Remember from before that unhealthy diets cause ER stress in ARC neurons. Also c
 
 ### Part 4: VAT's Function and How to Reduce It
 
-#### The Portal Theory
+#### Biological Justification
 
-We have learned of VAT's accumulation under stressful conditions. But why does VAT accumulate in the first place? Why wouldn't the body just accumulate more SAT instead? The SAT capacity exhaustion theories don't effectively answer that question because they still don't explain why evolutionary selection would prefer having a second type of fat instead of simply more of the same type.
+We have learned of VAT's accumulation under stressful conditions. But why does VAT accumulate in the first place? Why wouldn't the body just accumulate more SAT instead? The SAT capacity exhaustion theories don't effectively answer that question because they still don't explain why evolutionary selection would prefer having a second type of fat instead of simply more of the same type. Instead, VAT has some unique properties that cement it as a proper emergency energy source:
+
+1. VAT has higher lipolytic responsiveness and mobilizes faster than SAT
+2. VAT drains directly to the liver via the portal vein, providing fatty acids and glycerol to help the liver create extra glucose during fasting
+
+Perfectly reasonable when starving, like in the recovering anorexic women regaining weight. But in pathological obesity, because the usage of stored fat for energy is not suppressed by insulin during feeding like it's supposed to be, the liver is already getting plenty of energy from multiple sources. That's why VAT correlates with IHTG; this abundance of energy, with VAT as a contributor, can accumulate as fat inside liver cells. Of course, the correlation doesn't hold 100% of the time as the Fabbrini paper shows. The paper points out that only 20% of fatty acids transported to the liver via portal circulation come from VAT. What seems to be important is not VAT on its own, but whether the total amount of fatty acids to the liver causes it to exceed capacity. Once those fats start accumulating in liver, they start interfering with insulin signaling, and the liver's glucose production never really shuts down. Normally during feeding, insulin helps the liver stop producing glucose because it signals that energy is already coming from food. Instead, when liver cells are resistant to insulin, extra glucose is present all the time because the liver cells never know whether food is present or not. It makes biological sense in this case for liver cells to become insulin resistant, because they have so much energy already that they want to avoid accumulating even more, lest they become damaged. The cells are effectively protecting themselves while causing undesirable side effects for the rest of the body.
+
+
+#### The Solution
+
+The traditional solution offered for VAT reduction is to lose weight. That's not very helpful. Luckily, the information presented here about how and why VAT develops offers a much more compelling idea: proper nutrition should prevent the brain from going into stress mode, and then VAT should not accumulate in significant amounts. We know that VAT accumulation involves genetics, but now with more information, we can see it's not simply a matter of genetics dictating the storage of fat in X place or Y place. Instead, it's how metabolic side effects present themselves in each unique individual when the brain perceives metabolic stress. Person A might need to be twice as stressed as person B to develop the same amount of VAT, but maybe person A develops high blood pressure more easily. These individual differences tempt us to play whac-a-mole with different metabolic diseases instead of addressing the real upstream cause.
+
+
+#### Nutritional Ideas
+
+Earlier we discussed ER stress in ARC neurons, but not what causes this ER stress in the first place. That's where nutritional content matters. The problem is it's easy to do a lab experiment with a "high-fat" or "high-sugar" diet and say that X fat or Y sugar are horrible, but that's not always the case in an actual nutritious diet. Saturated fats, for example, are documented in countless studies to cause serious problems. On the other hand, in real life, many people consume nutritious diets with lots of saturated fats and remain very healthy. In other words, context matters a lot because the interplay of nutrients can completely change the picture from lab experiments where only simple molecules are studied. Even foods that are widely regarded as healthy can look bad when intake of specific nutrients is insufficient.
+
+As for how nutrition affects ER stress directly, no uniform consensus exists, but that's where I think **oxidative stress (Ox stress)** comes in, which I always talk about. Ox stress and ER stress are tightly coupled such that either one can lead to more of the other. Oxidation-reduction (redox) balance is important for cells to maintain, and that is directly tied to nutritional inputs. All kinds of proteins, vitamins, and minerals are necessary for cells to maintain redox homeostasis. When cells make energy and they inevitably undergo some oxidative burden, they need to be able to protect themselves. ARC neurons are particularly vulnerable to ox stress, so that's why in my opinion, it's the beginning of ER stress and subsequent cascade of metabolic symptoms, including VAT accumulation.
 
 https://pubmed.ncbi.nlm.nih.gov/25365922/
 https://pubmed.ncbi.nlm.nih.gov/15522994/
