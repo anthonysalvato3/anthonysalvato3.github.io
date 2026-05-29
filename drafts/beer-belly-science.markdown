@@ -100,7 +100,9 @@ First let's look at how obesity and related metabolic diseases develop in genera
 
 How does this kind of metabolic stress lead to VAT accumulation? In 2001, [Masuzaki et al.](https://pubmed.ncbi.nlm.nih.gov/11739957/) discovered that genetically overexpressing a single enzyme called 11β-HSD1 in fat tissue caused visceral obesity, fatty liver, insatiable hunger, insulin resistance, abnormal blood lipids, and high blood pressure, even on a normal diet! The enzyme works by regenerating active **cortisol** (the stress hormone) from its inactive form directly within fat tissue, raising local cortisol levels independent of how much the body is producing systemically. [Vicennati et al.](https://pubmed.ncbi.nlm.nih.gov/25372731/) followed this up in a 2014 review, acknowledging the cross-talk between adipose tissue and the **hypothalamic-pituitary-adrenal (HPA) axis**, the body's primary neuroendocrine stress response system. So there are two interacting routes to cortisol excess in fat tissue: the HPA axis raises circulating cortisol and its precursors, while local 11β-HSD1 amplifies cortisol within the fat itself. The stressed fat tissue then signals back to the HPA axis, creating a self-reinforcing loop that drives metabolic disease symptoms, including VAT accumulation.
 
-All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress? For the starving women, those bodily adaptations could have meant the difference between life and death in their anorexic state. The manifestations wouldn't be obvious because measurements like VAT, blood sugar, and blood pressure would be low in absolute terms. In _relative_ terms, however, a stress response would allow these critical biomarkers to be elevated enough from levels that would otherwise cause death.
+All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress or starvation? That's what [Gerald Shulman, a Yale endocrinologist who has spent his career studying the molecular basis of insulin resistance](https://medicine.yale.edu/news-article/how-to-reverse-insulin-resistance/) seems to think. He frames insulin resistance as an evolved response to starvation that now misfires under what he calls a "toxic food environment." Shulman addresses insulin resistance specifically, but I'd argue that the same logic extends to other metabolic adaptations: VAT accumulation, elevated blood pressure, etc., since they all share the same upstream trigger of perceived energy stress.
+
+Now the increased VAT showing up in the anorexic women makes perfect sense, because that and other bodily adaptations could have meant the difference between life and death in their anorexic state. The manifestations wouldn't be obvious because measurements like VAT, blood sugar, and blood pressure would be low in absolute terms. In _relative_ terms, however, a stress response would allow these critical biomarkers to be elevated enough from levels that would otherwise cause death.
 
 Remember from before that unhealthy diets cause ER stress in ARC neurons. Also clear from [this 1997 paper](https://pubmed.ncbi.nlm.nih.gov/9275075/) is that proper leptin signaling suppresses the HPA axis, which makes sense because leptin signaling indicates energy sufficiency, and should therefore reduce stress responses that indicate an immediate energy need. So we can now construct a temporal sequence that makes a lot more sense for getting rid of VAT.
 
@@ -170,22 +172,34 @@ Too often, symptoms of metabolic disease are thought of as a matter of genetics.
 
 #### Sources
 
-_Sniderman AD, Bhopal R, Prabhakaran D, Sarrafzadegan N, Tchernof A. Why might South Asians be so susceptible to central obesity and its atherogenic consequences? The adipose tissue overflow hypothesis. International Journal of Epidemiology. 2007;36(1):220-225. [PMID 17510078]_
+_Sniderman AD, Bhopal R, Prabhakaran D, Sarrafzadegan N, Tchernof A. Why might South Asians be so susceptible to central obesity and its atherogenic consequences? The adipose tissue overflow hypothesis. International Journal of Epidemiology. 2007;36(1):220-225._
 
-_Taylor R, Holman RR. Normal weight individuals who develop type 2 diabetes: the personal fat threshold. Clinical Science. 2015;128(7):405-410. [PMID 25515001]_
+_Taylor R, Holman RR. Normal weight individuals who develop type 2 diabetes: the personal fat threshold. Clinical Science. 2015;128(7):405-410._
 
-_Lotta LA, Gulati P, Day FR, et al. Integrative genomic analysis implicates limited peripheral adipose storage capacity in the pathogenesis of human insulin resistance. Nature Genetics. 2017;49(1):17-26. [PMID 27841877]_
+_Lotta LA, Gulati P, Day FR, et al. Integrative genomic analysis implicates limited peripheral adipose storage capacity in the pathogenesis of human insulin resistance. Nature Genetics. 2017;49(1):17-26._
 
-_Fabbrini E, Magkos F, Mohammed BS, et al. Intrahepatic fat, not visceral fat, is linked with metabolic complications of obesity. Proceedings of the National Academy of Sciences. 2009;106(36):15430-15435. [PMID 19706383]_
+_Fabbrini E, Magkos F, Mohammed BS, et al. Intrahepatic fat, not visceral fat, is linked with metabolic complications of obesity. Proceedings of the National Academy of Sciences. 2009;106(36):15430-15435._
 
-_Thaler JP, Yi CX, Schur EA, et al. Obesity is associated with hypothalamic injury in rodents and humans. The Journal of Clinical Investigation. 2012;122(1):153-162. [PMID 22201683]_
+_Jakobsen MU, Berentzen T, Sørensen TIA, Overvad K. Abdominal obesity and fatty liver. Epidemiologic Reviews. 2007;29:77-87. doi:10.1093/epirev/mxm002_
 
-_Schneeberger M, Dietrich MO, Sebastián D, et al. Mitofusin 2 in POMC neurons connects ER stress with leptin resistance and energy imbalance. Cell. 2013;155(1):172-187. [PMID 24074867]_
+_Thaler JP, Yi CX, Schur EA, et al. Obesity is associated with hypothalamic injury in rodents and humans. The Journal of Clinical Investigation. 2012;122(1):153-162._
 
-_Masuzaki H, Paterson J, Shinyama H, et al. A transgenic model of visceral obesity and the metabolic syndrome. Science. 2001;294(5549):2166-2170. [PMID 11739957]_
+_Schneeberger M, Dietrich MO, Sebastián D, et al. Mitofusin 2 in POMC neurons connects ER stress with leptin resistance and energy imbalance. Cell. 2013;155(1):172-187._
 
-_Cao SS, Kaufman RJ. Endoplasmic reticulum stress and oxidative stress in cell fate decision and human disease. Antioxidants & Redox Signaling. 2014;21(3):396-413. [PMID 24702237]_
+_Mayer LES, Klein DA, Black E, Attia E, Shen W, Mao X, Shungu DC, Punyanita M, Gallagher D, Wang J, Heymsfield SB, Hirsch J, Ginsberg HN, Walsh BT. Adipose tissue distribution after weight restoration and weight maintenance in women with anorexia nervosa. American Journal of Clinical Nutrition. 2009;90(5):1132-1137. doi:10.3945/ajcn.2009.27820_
 
-_Lu SC. Glutathione synthesis. Biochimica et Biophysica Acta. 2013;1830(5):3143-3153. [PMID 22995213]_
+_Masuzaki H, Paterson J, Shinyama H, et al. A transgenic model of visceral obesity and the metabolic syndrome. Science. 2001;294(5549):2166-2170._
 
-_Rayman MP. Selenium and human health. The Lancet. 2012;379(9822):1256-1268. [PMID 22381456]_
+_Vicennati V, Garelli S, Rinaldi E, Di Dalmazi G, Pagotto U, Pasquali R. Cross-talk between adipose tissue and the HPA axis in obesity and overt hypercortisolemic states. Hormone Molecular Biology and Clinical Investigation. 2014;17(2):63-77. doi:10.1515/hmbci-2013-0068_
+
+_Shulman GI (interviewed by Crawford S). How to reverse insulin resistance. Yale School of Medicine News. April 10, 2024. Available at: https://medicine.yale.edu/news-article/how-to-reverse-insulin-resistance/_
+
+_Heiman ML, Ahima RS, Craft LS, Schoner B, Stephens TW, Flier JS. Leptin inhibition of the hypothalamic-pituitary-adrenal axis in response to stress. Endocrinology. 1997;138(9):3859-3863. doi:10.1210/endo.138.9.5366_
+
+_Cao SS, Kaufman RJ. Endoplasmic reticulum stress and oxidative stress in cell fate decision and human disease. Antioxidants & Redox Signaling. 2014;21(3):396-413._
+
+_Lu SC. Glutathione synthesis. Biochimica et Biophysica Acta. 2013;1830(5):3143-3153._
+
+_Rayman MP. Selenium and human health. The Lancet. 2012;379(9822):1256-1268._
+
+_Prasad AS. Zinc in human health: effect of zinc on immune cells. Molecular Medicine. 2008;14(5-6):353-357. doi:10.2119/2008-00033.Prasad_
