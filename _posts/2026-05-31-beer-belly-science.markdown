@@ -32,7 +32,7 @@ Culturally, we usually think of fat storage as a bad thing, and fat burning as a
     <figcaption><a href="https://media.healthdirect.org.au/images/inline/original/visceral-fat-diagram-ad484c.jpg">https://media.healthdirect.org.au/images/inline/original/visceral-fat-diagram-ad484c.jpg</a></figcaption>
 </figure>
 
-SAT acts as a benign energy reserve and endocrine signaler. It's surface level and distributed fairly evenly around the body, with the exact distribution varying a bit between people. VAT, on the other hand, is fat stored directly around internal organs and is related to a number of negative health effects.
+SAT acts as a benign energy reserve and endocrine signaler. It's surface level and distributed fairly evenly around the body, with the exact distribution varying a bit between people. VAT, on the other hand, is fat stored directly around internal organs and is related to a number of negative health effects. That's the one mostly responsible for the classic abdominal protrusion pattern.
 
 > **Subcutaneous adipose tissue (SAT) is benign fat at the surface. Visceral adipose tissue (VAT) is fat around internal organs, and is correlated with negative health effects.**
 
