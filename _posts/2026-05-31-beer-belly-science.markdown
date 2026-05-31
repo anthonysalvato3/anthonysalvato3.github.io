@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 date: "2026-05-31"
 permalink: "/the-science-behind-beer-bellies/"
-excerpt: "How to stop looking like a pregnant kangaroo."
+excerpt: "This curious phenomenon is not what it seems."
 header:
   teaser: "/assets/images/thumbnails/beer-belly.png"
 ---
