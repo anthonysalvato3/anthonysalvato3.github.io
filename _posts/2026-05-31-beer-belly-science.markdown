@@ -1,3 +1,15 @@
+---
+layout: single
+title: "The Science Behind Beer Bellies"
+toc: true
+toc_label: "Table of Contents"
+date: "2026-05-31"
+permalink: "/the-science-behind-beer-bellies/"
+excerpt: "How to stop looking like a pregnant kangaroo."
+header:
+  teaser: "/assets/images/thumbnails/beer-belly.png"
+---
+
 Go to any crowded place and notice how many normal guys from slim to average builds have protruding abdomens, like this:
 
 <figure>
@@ -20,7 +32,7 @@ Culturally, we usually think of fat storage as a bad thing, and fat burning as a
     <figcaption><a href="https://media.healthdirect.org.au/images/inline/original/visceral-fat-diagram-ad484c.jpg">https://media.healthdirect.org.au/images/inline/original/visceral-fat-diagram-ad484c.jpg</a></figcaption>
 </figure>
 
-SAT acts as benign energy storage and endocrine signaler. It's surface level and distributed fairly evenly around the body, with the exact distribution varying a bit between people. VAT, on the other hand, is fat stored directly around internal organs and is related to a number of negative health effects.
+SAT acts as a benign energy reserve and endocrine signaler. It's surface level and distributed fairly evenly around the body, with the exact distribution varying a bit between people. VAT, on the other hand, is fat stored directly around internal organs and is related to a number of negative health effects.
 
 > **Subcutaneous adipose tissue (SAT) is benign fat at the surface. Visceral adipose tissue (VAT) is fat around internal organs, and is correlated with negative health effects.**
 
@@ -86,37 +98,43 @@ And here are the remaining important questions to answer:
 2. How do we reduce VAT accumulation?
 3. What explains the correlation between VAT and IHTG?
 
-The main problem with the existing hypotheses about VAT accumulation is that they're based around the long-standing assumption that disease occurs from eating too much. Essentially, they state that we have some SAT capacity, and eating too much exceeds that capacity, then the fat goes to bad places for some reason. According to conventional ideology, we must maintain a monk-like dedication of ignoring our appetites, while using unreliable psychology tricks like filling our stomachs with fiber and eating with smaller plates.
+The main problem with the existing hypotheses about VAT accumulation is that they're based around the long-standing assumption that disease occurs from eating too much. Essentially, they state that we have some SAT capacity, and eating too much exceeds that capacity, then the fat goes to bad places for some unspecified reason. According to conventional ideology, we must maintain a monk-like dedication of ignoring our appetites, while using unreliable psychology tricks like filling our stomachs with fiber and eating with smaller plates.
 
 #### A Hormonal Story
 
 First let's look at how obesity and related metabolic diseases develop in general. Once upon a time, [Thaler, et al.](https://pubmed.ncbi.nlm.nih.gov/22201683/) observed something striking: nutrient-poor diets cause injury in a region of the brain called the **arcuate nucleus (ARC)** before any symptoms of obesity occur. The ARC is a region within the hypothalamus that regulates energy balance; it handles many of the metabolic processes that ebb and flow based on bodily energy status at any given time. It seemed that somehow, the injury of ARC neurons was causing them to weaken their satiety signaling, triggering the need to eat, even in the presence of an energy-rich diet.
 
-[Later research revealed why this happens](https://pubmed.ncbi.nlm.nih.gov/24074867/); Not because unhealthy diets taste too good, or because calories are evil, but because **endoplasmic reticulum (ER)** stress in ARC neurons is causing the satiety signal from the hormone **leptin** to be blunted. Normally, fat cells send leptin to the brain, and more fat cells means more leptin, which means more satiety. That means in a healthy person, gaining fat should reduce their appetite on average, while losing fat increases appetite, allowing weight to stay in reasonable range. But when leptin signaling is blunted, satiety is not properly communicated, and appetite stays high even at increased fat mass. In other words, energy intake in the absence of proper nutrient protection is causing ER stress, which then decouples actual and perceived energy status, causing inappropriate low-energy adaptations (like increased appetite) despite high energy intake.
+To understand how this signaling fails, two hormones are worth knowing. **Insulin** is released by the pancreas when blood sugar rises after a meal. It tells cells throughout the body to take up glucose, signals the liver to stop producing more glucose, and signals fat tissue to store rather than release energy. In short, insulin is the body's "energy is available" signal during feeding. **Leptin**, on the other hand, is released by fat cells in proportion to fat mass, telling the brain about the body's longer-term energy reserves.
+
+[Subsequent work showed how this might happen](https://pubmed.ncbi.nlm.nih.gov/24074867/); not because unhealthy diets taste too good, or because calories are evil, but because **endoplasmic reticulum (ER)** stress in ARC neurons is causing the satiety signal from leptin to be blunted. Normally, fat cells send leptin to the brain, and more fat cells means more leptin, which means more satiety. That means in a healthy person, gaining fat should reduce their appetite on average, while losing fat increases appetite, allowing weight to stay in reasonable range. But when leptin signaling is blunted, satiety is not properly communicated, and appetite stays high even at increased fat mass. In other words, energy intake in the absence of proper nutrient protection is causing ER stress, which then decouples actual and perceived energy status, causing inappropriate low-energy adaptations (like increased appetite and resistance to insulin signaling) despite high energy intake.
+
+> **Poor diet leads to cellular injury in the brain, interfering with hormonal signaling, and ultimately decoupling actual and perceived energy status.**
 
 #### VAT as a Stress Response
 
-[This study on anorexic women](https://pmc.ncbi.nlm.nih.gov/articles/PMC2762154/) also challenges the SAT overflow model pretty strongly. While regaining weight, the studied women accumulated a disproportional amount of VAT when compared with a control group of healthy women. Then, after a one year follow-up, their fat distribution normalized. That result highlights two important details: first, VAT can accumulate even when levels of SAT are very low, contradicting the idea of VAT filling up only when SAT capacity runs out. Second, patterns of VAT accumulation can change in the same person, meaning that although genetics are relevant, they can be subsumed by metabolic state. In this case, being in a stressed starvation state increased the anorexic women's VAT deposition until they became healthy.
+[This study on anorexic women](https://pmc.ncbi.nlm.nih.gov/articles/PMC2762154/) also challenges the SAT overflow model strongly. While regaining weight, the studied women accumulated a disproportional amount of VAT when compared with a control group of healthy women. Then, after a one year follow-up, their fat distribution normalized. That result highlights two importafnt details: first, VAT can accumulate even when levels of SAT are very low, contradicting the idea of VAT filling up only when SAT capacity runs out. Second, patterns of VAT accumulation can change in the same person, meaning that although genetics are relevant, they can be subsumed by metabolic state. In this case, being in a stressed starvation state increased the anorexic women's VAT deposition until they became healthy.
 
 How does this kind of metabolic stress lead to VAT accumulation? In 2001, [Masuzaki et al.](https://pubmed.ncbi.nlm.nih.gov/11739957/) discovered that genetically overexpressing a single enzyme called 11β-HSD1 in fat tissue caused visceral obesity, fatty liver, insatiable hunger, insulin resistance, abnormal blood lipids, and high blood pressure, even on a normal diet! The enzyme works by regenerating active **cortisol** (the stress hormone) from its inactive form directly within fat tissue, raising local cortisol levels independent of how much the body is producing systemically. [Vicennati et al.](https://pubmed.ncbi.nlm.nih.gov/25372731/) followed this up in a 2014 review, acknowledging the cross-talk between adipose tissue and the **hypothalamic-pituitary-adrenal (HPA) axis**, the body's primary neuroendocrine stress response system. So there are two interacting routes to cortisol excess in fat tissue: the HPA axis raises circulating cortisol and its precursors, while local 11β-HSD1 amplifies cortisol within the fat itself. The stressed fat tissue then signals back to the HPA axis, creating a self-reinforcing loop that drives metabolic disease symptoms, including VAT accumulation.
 
-All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress or starvation? That's what [Gerald Shulman, a Yale endocrinologist who has spent his career studying the molecular basis of insulin resistance](https://medicine.yale.edu/news-article/how-to-reverse-insulin-resistance/) seems to think. He frames insulin resistance as an evolved response to starvation that now misfires under what he calls a "toxic food environment." Shulman addresses insulin resistance specifically, but I'd argue that the same logic extends to other metabolic adaptations: VAT accumulation, elevated blood pressure, etc., since they all share the same upstream trigger of perceived energy stress.
+All of this stuff sounds bad, and it _was_ bad for the genetically modified animals studied. But what if the entire reason VAT accumulation, insulin resistance, blood pressure elevation, etc. exist is not because of some evolutionary accident, but because they are allostatic adaptations to severe stress or starvation? That's what [Gerald Shulman, a Yale endocrinologist who has spent his career studying the molecular basis of insulin resistance](https://medicine.yale.edu/news-article/how-to-reverse-insulin-resistance/), seems to think. He frames insulin resistance as an evolved response to starvation that now misfires under what he calls a "toxic food environment." Shulman addresses insulin resistance specifically, but I'm thoroughly convinced that the same logic extends to other metabolic adaptations: VAT accumulation, elevated blood pressure, etc., since they all share the same upstream trigger of perceived energy stress.
 
 Now the increased VAT showing up in the anorexic women makes perfect sense, because that and other bodily adaptations could have meant the difference between life and death in their anorexic state. The manifestations wouldn't be obvious because measurements like VAT, blood sugar, and blood pressure would be low in absolute terms. In _relative_ terms, however, a stress response would allow these critical biomarkers to be elevated enough from levels that would otherwise cause death.
 
 Remember from before that unhealthy diets cause ER stress in ARC neurons. Also clear from [this 1997 paper](https://pubmed.ncbi.nlm.nih.gov/9275075/) is that proper leptin signaling suppresses the HPA axis, which makes sense because leptin signaling indicates energy sufficiency, and should therefore reduce stress responses that indicate an immediate energy need. So we can now construct a temporal sequence that makes a lot more sense for getting rid of VAT.
 
-##### The Conventional View
+**The Conventional View**
 
 1. Lose enough weight until VAT disappears
 2. If you can't lose weight, try harder to ignore hunger and use tricks like filling up on fiber
 3. If VAT persists even after weight loss, you have bad genetics
 
-##### The Hormonal View
+**The Hormonal View**
 
 1. Nutrient-poor diets lead to ER stress in ARC neurons, causing resistance to leptin signaling
 2. HPA axis is chronically activated, creating a persistent stress signal
 3. The stress signal triggers metabolic adaptations to energy scarcity, including increased hunger, VAT accumulation, and much more
+
+> **Metabolic side effects result from a stress response due to perceived starvation, not from adipose tissue overflow.**
 
 ### Part 5: VAT's Function and How to Reduce It
 
@@ -127,8 +145,11 @@ We have learned of VAT's accumulation under stressful conditions. But why does V
 1. VAT has higher lipolytic responsiveness and mobilizes faster than SAT
 2. VAT drains directly to the liver via the portal vein, providing fatty acids and glycerol to help the liver create extra glucose during fasting
 
-Perfectly reasonable for emergency energy when stressed, like in the recovering anorexic women regaining weight. But in pathological obesity, because the usage of stored fat for energy is not suppressed by insulin during feeding like it's supposed to be, the liver is already getting plenty of energy from multiple sources. That's why VAT correlates with IHTG; this abundance of energy, with VAT as a contributor, can accumulate as fat inside liver cells. Of course, the correlation doesn't hold 100% of the time as the Fabbrini paper shows; the paper points out that only 20% of fatty acids transported to the liver via portal circulation come from VAT. What seems to be important is not VAT on its own, but whether the total amount of fatty acids to the liver causes it to exceed capacity. Once those fats start accumulating in liver, they start interfering with insulin signaling, and the liver's glucose production never really shuts down. Normally during feeding, insulin helps the liver stop producing glucose because it signals that energy is already coming from food. Instead, when liver cells are resistant to insulin, extra glucose is present all the time because the liver cells never know whether food is present or not. It makes biological sense in this case for liver cells to become insulin resistant, because they have so much energy already that they want to avoid accumulating even more, lest they become damaged. The cells are effectively protecting themselves while causing undesirable side effects for the rest of the body.
+Perfectly reasonable for emergency energy when stressed, like in the recovering anorexic women regaining weight. But in pathological obesity, fat tissue continues releasing stored fat even during feeding, when insulin should be telling it to stop. The liver ends up with energy coming from three sources at once: the meal itself, the fat tissue that won't shut off, and the liver's own conversion of excess carbohydrates into fat. That's why VAT correlates with IHTG; this abundance of energy, with VAT as a contributor, can accumulate as fat inside liver cells. Of course, the correlation doesn't hold 100% of the time as the Fabbrini paper shows; the paper points out that only 20% of fatty acids transported to the liver via portal circulation come from VAT. What seems to be important is not VAT on its own, but whether the total amount of fatty acids to the liver from all three sources causes it to exceed capacity.
 
+Once those fats start accumulating in liver, they start interfering with insulin signaling, and the liver's glucose production never really shuts down. Normally during feeding, insulin helps the liver stop producing glucose because it signals that energy is already coming from food. Instead, when liver cells are resistant to insulin, they make extra glucose all the time because they never know whether food is present or not. Insulin resistance for liver cells in this case makes biological sense, because they have so much energy already that they want to avoid accumulating even more, lest they become damaged. The cells are effectively protecting themselves while causing undesirable side effects for the rest of the body.
+
+> **VAT is useful as an emergency energy source during stress, but when the brain is chronically stressed by poor nutrition, the same delivery system contributes to liver fat accumulation and the protective insulin resistance that follows.**
 
 #### The Solution
 
@@ -140,15 +161,15 @@ Earlier we discussed ER stress in ARC neurons, but not what causes this ER stres
 
 As for how nutrition affects ER stress directly, multiple converging sources can act independently or synergistically:
 
-1. Oxidative damage
+**1. Oxidative damage**
 
 Cells inevitably produce **reactive oxygen species (ROS)** during energy metabolism, and they rely on antioxidant systems to keep these in balance. When the balance tips toward excess ROS, [damage accumulates in the proteins folding inside the ER and disrupts its redox environment, activating the unfolded protein response](https://pubmed.ncbi.nlm.nih.gov/24702237/). Diets low in antioxidant nutrients (cysteine, selenium, zinc, B vitamins) or high in already-oxidized fats from refined oils (especially in junk food) tip this balance unfavorably.
 
-2. Inflammatory signaling
+**2. Inflammatory signaling**
 
 Chronic low-grade inflammation, driven by gut barrier disruption and immune signaling from dysfunctional fat tissue, produces cytokines and inflammatory molecules that activate stress pathways inside cells. These pathways cross-talk with the ER stress response, amplifying it. The hypothalamus is particularly exposed to these signals because of its location near the median eminence, where the blood-brain barrier is more permeable.
 
-3. Calcium dysregulation
+**3. Calcium dysregulation**
 
 The ER is the cell's main calcium storage compartment, and proper calcium levels are essential for ER function, including protein folding and membrane integrity. When calcium handling fails (magnesium deficiency or other disruptions), the ER stress response activates independently of any direct lipid or protein problem.
 
@@ -164,42 +185,44 @@ The same whole-food dietary pattern that supports antioxidant defense also tends
 
 This is not an exhaustive list for complete nutrition, but a good starting point for key nutrients to focus on. A dietary pattern can fail even when it includes all "healthy" foods because the redox balance can be way off. Consider, for example, a rice bowl with some fish and vegetables. That can be radically different depending on the concentration of each ingredient. In a country like Japan, the ingredients would be well-balanced, while the same in the US is more likely to mostly be a giant pile of rice and comparatively lacking in the other ingredients. The former can be very healthy, while the latter can create an unfavorable redox balance when eaten repeatedly.
 
+> **Nutrient-rich whole foods support the cellular defenses that protect against the ER stress driving metabolic dysfunction.**
+
 ### Part 6: Conclusion
 
 #### The Big Picture
 
-Too often, symptoms of metabolic disease are thought of as a matter of genetics. While true that individual manifestations of these symptoms vary, addressing root cause is much more effective because you can substantially reduce the risk that any of these symptoms will exist in the first place. Beer bellies are one such symptom; having one is a red flag, but not having one doesn't guarantee good health. By understanding the pipeline of poor nutrition leading to ER stress and maladaptive adaptations in the brain, we now understand how and why beer bellies develop, which is a lot more powerful than doing whatever and hoping for the best.
+Too often, symptoms of metabolic disease are thought of as a matter of genetics. While true that individual manifestations of these symptoms vary, addressing root cause is much more effective because you can substantially reduce the risk that any of these symptoms will exist in the first place. Beer bellies are one such symptom; having one is a red flag, but not having one doesn't guarantee good health. By understanding the pipeline of poor nutrition leading to ER stress and maladaptive adaptations in the brain, we now understand how and why beer bellies develop, which is a lot more powerful than following uninspired "lose weight" advice and hoping for the best.
 
 #### Sources
 
-_Sniderman AD, Bhopal R, Prabhakaran D, Sarrafzadegan N, Tchernof A. Why might South Asians be so susceptible to central obesity and its atherogenic consequences? The adipose tissue overflow hypothesis. International Journal of Epidemiology. 2007;36(1):220-225._
+<small>_Sniderman AD, Bhopal R, Prabhakaran D, Sarrafzadegan N, Tchernof A. Why might South Asians be so susceptible to central obesity and its atherogenic consequences? The adipose tissue overflow hypothesis. International Journal of Epidemiology. 2007;36(1):220-225._</small>
 
-_Taylor R, Holman RR. Normal weight individuals who develop type 2 diabetes: the personal fat threshold. Clinical Science. 2015;128(7):405-410._
+<small>_Taylor R, Holman RR. Normal weight individuals who develop type 2 diabetes: the personal fat threshold. Clinical Science. 2015;128(7):405-410._</small>
 
-_Lotta LA, Gulati P, Day FR, et al. Integrative genomic analysis implicates limited peripheral adipose storage capacity in the pathogenesis of human insulin resistance. Nature Genetics. 2017;49(1):17-26._
+<small>_Lotta LA, Gulati P, Day FR, et al. Integrative genomic analysis implicates limited peripheral adipose storage capacity in the pathogenesis of human insulin resistance. Nature Genetics. 2017;49(1):17-26._</small>
 
-_Fabbrini E, Magkos F, Mohammed BS, et al. Intrahepatic fat, not visceral fat, is linked with metabolic complications of obesity. Proceedings of the National Academy of Sciences. 2009;106(36):15430-15435._
+<small>_Fabbrini E, Magkos F, Mohammed BS, et al. Intrahepatic fat, not visceral fat, is linked with metabolic complications of obesity. Proceedings of the National Academy of Sciences. 2009;106(36):15430-15435._</small>
 
-_Jakobsen MU, Berentzen T, Sørensen TIA, Overvad K. Abdominal obesity and fatty liver. Epidemiologic Reviews. 2007;29:77-87. doi:10.1093/epirev/mxm002_
+<small>_Jakobsen MU, Berentzen T, Sørensen TIA, Overvad K. Abdominal obesity and fatty liver. Epidemiologic Reviews. 2007;29:77-87. doi:10.1093/epirev/mxm002_</small>
 
-_Thaler JP, Yi CX, Schur EA, et al. Obesity is associated with hypothalamic injury in rodents and humans. The Journal of Clinical Investigation. 2012;122(1):153-162._
+<small>_Thaler JP, Yi CX, Schur EA, et al. Obesity is associated with hypothalamic injury in rodents and humans. The Journal of Clinical Investigation. 2012;122(1):153-162._</small>
 
-_Schneeberger M, Dietrich MO, Sebastián D, et al. Mitofusin 2 in POMC neurons connects ER stress with leptin resistance and energy imbalance. Cell. 2013;155(1):172-187._
+<small>_Schneeberger M, Dietrich MO, Sebastián D, et al. Mitofusin 2 in POMC neurons connects ER stress with leptin resistance and energy imbalance. Cell. 2013;155(1):172-187._</small>
 
-_Mayer LES, Klein DA, Black E, Attia E, Shen W, Mao X, Shungu DC, Punyanita M, Gallagher D, Wang J, Heymsfield SB, Hirsch J, Ginsberg HN, Walsh BT. Adipose tissue distribution after weight restoration and weight maintenance in women with anorexia nervosa. American Journal of Clinical Nutrition. 2009;90(5):1132-1137. doi:10.3945/ajcn.2009.27820_
+<small>_Mayer LES, Klein DA, Black E, Attia E, Shen W, Mao X, Shungu DC, Punyanita M, Gallagher D, Wang J, Heymsfield SB, Hirsch J, Ginsberg HN, Walsh BT. Adipose tissue distribution after weight restoration and weight maintenance in women with anorexia nervosa. American Journal of Clinical Nutrition. 2009;90(5):1132-1137. doi:10.3945/ajcn.2009.27820_</small>
 
-_Masuzaki H, Paterson J, Shinyama H, et al. A transgenic model of visceral obesity and the metabolic syndrome. Science. 2001;294(5549):2166-2170._
+<small>_Masuzaki H, Paterson J, Shinyama H, et al. A transgenic model of visceral obesity and the metabolic syndrome. Science. 2001;294(5549):2166-2170._</small>
 
-_Vicennati V, Garelli S, Rinaldi E, Di Dalmazi G, Pagotto U, Pasquali R. Cross-talk between adipose tissue and the HPA axis in obesity and overt hypercortisolemic states. Hormone Molecular Biology and Clinical Investigation. 2014;17(2):63-77. doi:10.1515/hmbci-2013-0068_
+<small>_Vicennati V, Garelli S, Rinaldi E, Di Dalmazi G, Pagotto U, Pasquali R. Cross-talk between adipose tissue and the HPA axis in obesity and overt hypercortisolemic states. Hormone Molecular Biology and Clinical Investigation. 2014;17(2):63-77. doi:10.1515/hmbci-2013-0068_</small>
 
-_Shulman GI (interviewed by Crawford S). How to reverse insulin resistance. Yale School of Medicine News. April 10, 2024. Available at: https://medicine.yale.edu/news-article/how-to-reverse-insulin-resistance/_
+<small>_Shulman GI (interviewed by Crawford S). How to reverse insulin resistance. Yale School of Medicine News. April 10, 2024. Available at: https://medicine.yale.edu/news-article/how-to-reverse-insulin-resistance/_</small>
 
-_Heiman ML, Ahima RS, Craft LS, Schoner B, Stephens TW, Flier JS. Leptin inhibition of the hypothalamic-pituitary-adrenal axis in response to stress. Endocrinology. 1997;138(9):3859-3863. doi:10.1210/endo.138.9.5366_
+<small>_Heiman ML, Ahima RS, Craft LS, Schoner B, Stephens TW, Flier JS. Leptin inhibition of the hypothalamic-pituitary-adrenal axis in response to stress. Endocrinology. 1997;138(9):3859-3863. doi:10.1210/endo.138.9.5366_</small>
 
-_Cao SS, Kaufman RJ. Endoplasmic reticulum stress and oxidative stress in cell fate decision and human disease. Antioxidants & Redox Signaling. 2014;21(3):396-413._
+<small>_Cao SS, Kaufman RJ. Endoplasmic reticulum stress and oxidative stress in cell fate decision and human disease. Antioxidants & Redox Signaling. 2014;21(3):396-413._</small>
 
-_Lu SC. Glutathione synthesis. Biochimica et Biophysica Acta. 2013;1830(5):3143-3153._
+<small>_Lu SC. Glutathione synthesis. Biochimica et Biophysica Acta. 2013;1830(5):3143-3153._</small>
 
-_Rayman MP. Selenium and human health. The Lancet. 2012;379(9822):1256-1268._
+<small>_Rayman MP. Selenium and human health. The Lancet. 2012;379(9822):1256-1268._</small>
 
-_Prasad AS. Zinc in human health: effect of zinc on immune cells. Molecular Medicine. 2008;14(5-6):353-357. doi:10.2119/2008-00033.Prasad_
+<small>_Prasad AS. Zinc in human health: effect of zinc on immune cells. Molecular Medicine. 2008;14(5-6):353-357. doi:10.2119/2008-00033.Prasad_</small>
