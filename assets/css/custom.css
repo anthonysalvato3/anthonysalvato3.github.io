@@ -21,3 +21,39 @@ blockquote {
   border-radius: 0.4em;
   font-weight: bold;
 }
+
+/* ==========================================================================
+   Dark mode for the Brevo subscription form.
+   The widget ships hardcoded light styling via inline styles + Brevo's
+   external stylesheet, so these overrides need !important to win.
+   ========================================================================== */
+
+@media (prefers-color-scheme: dark) {
+  /* Outer band — tone the air-blue brand color down to the dark footer */
+  .sib-form {
+    background-color: #1a1d24 !important;
+  }
+
+  /* The white form card becomes a dark card with a visible border */
+  #sib-container {
+    background-color: #252a34 !important;
+    border-color: #51555d !important;
+  }
+
+  /* Label above the input */
+  .entry__label {
+    color: #eaeaea !important;
+  }
+
+  /* Email input: dark field, light text */
+  .sib-form .input {
+    color: #eaeaea !important;
+    background-color: #1f242c !important;
+    border-color: #51555d !important;
+  }
+
+  /* "e.g. abc@xyz.com" helper text */
+  .entry__specification {
+    color: #b0b0b0 !important;
+  }
+}

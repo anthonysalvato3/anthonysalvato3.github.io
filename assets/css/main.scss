@@ -1,0 +1,38 @@
+---
+---
+
+@charset "utf-8";
+
+@use "sass:color"; // for color.mix (replaces the deprecated global mix())
+
+// Light mode — uses the skin set in _config.yml (currently "air")
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Dark mode — re-compile the framework with the dark skin's colors,
+// scoped to the OS/browser dark preference. The dark skin's variable
+// definitions are inlined here (without !default) because the global light
+// values would otherwise block the skin file's own !default assignments.
+// Colors still use the dark skin's exact mix() formulas, not hand-approximations.
+@media (prefers-color-scheme: dark) {
+  $background-color: #252a34;
+  $text-color: #eaeaea;
+  // The dark skin omits $muted-text-color, so without this it would inherit
+  // the air skin's dark #393e46 and blend into the background (e.g. the
+  // "Recent Posts" subtitle). Mute by darkening the light text instead.
+  $muted-text-color: color.mix(#000, $text-color, 25%);
+  $primary-color: #00adb5;
+  $border-color: color.mix(#fff, $background-color, 20%);
+  $code-background-color: color.mix(#000, $background-color, 15%);
+  $code-background-color-dark: color.mix(#000, $background-color, 20%);
+  $form-background-color: color.mix(#000, $background-color, 15%);
+  $footer-background-color: color.mix(#000, $background-color, 30%);
+  $link-color: color.mix($primary-color, $text-color, 40%);
+  $link-color-hover: color.mix(#fff, $link-color, 25%);
+  $link-color-visited: color.mix(#000, $link-color, 25%);
+  $masthead-link-color: $text-color;
+  $masthead-link-color-hover: color.mix(#000, $text-color, 20%);
+  $navicon-link-color-hover: color.mix(#000, $background-color, 30%);
+
+  @import "minimal-mistakes"; // main partials, recompiled with dark colors
+}
